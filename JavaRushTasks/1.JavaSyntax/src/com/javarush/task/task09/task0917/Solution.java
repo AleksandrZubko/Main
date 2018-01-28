@@ -17,7 +17,7 @@ public class Solution {
 
     public static void printStack(Throwable throwable) {
         System.out.println(throwable);
-        for (StackTraceElement element : throwable.getStackTrace()) {
+        for (StackTraceElement element : throwable.getStackTrace()) { 
             System.out.println(element);
         }
     }
