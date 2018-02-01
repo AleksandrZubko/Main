@@ -1,9 +1,9 @@
-package com.javarush.task.task09.task0928;
+package com.javarush.task.task09.task0929;
 
 import java.io.*;
 
 /* 
-Код не компилится…
+Обогатим код функциональностью!
 */
 
 public class Solution {
@@ -16,19 +16,10 @@ public class Solution {
         InputStream fileInputStream = getInputStream(sourceFileName);
         OutputStream fileOutputStream = getOutputStream(destinationFileName);
 
-        int count = 0;
-        while (fileInputStream.available() > 0) //available - определяет кол-во байт в файле (из класса FileInputStream)
-        {
+        while (fileInputStream.available() > 0) {
             int data = fileInputStream.read();
-            if (data == -1){
-                break;
-            }
-
             fileOutputStream.write(data);
-            count++;
         }
-
-        System.out.println("Скопировано байт " + count);
 
         fileInputStream.close();
         fileOutputStream.close();
@@ -42,3 +33,4 @@ public class Solution {
         return new FileOutputStream(fileName);
     }
 }
+
