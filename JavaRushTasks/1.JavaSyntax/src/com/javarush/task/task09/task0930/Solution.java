@@ -21,28 +21,26 @@ public class Solution {
         String[] array = list.toArray(new String[list.size()]);
         sort(array);
 
-        for (String x : array) {
-            System.out.println(x);
-        }
     }
 
     public static void sort(String[] array) {
         //напишите тут ваш код
         ArrayList<Integer> n = new ArrayList<>();
         ArrayList<String> s = new ArrayList<>();
-        String[] ident = new String[array.length];
+        String[] ident = new String[array.length]; //для сохранения очерёдности строки и числа
 
         for (int i = 0; i < array.length; i ++){
             if (isNumber(array[i])){
-                n.add(Integer.getInteger(array[i]));
+                n.add(Integer.parseInt(array[i]));
                 ident[i] = "n";
             }else {
                 s.add(array[i]);
                 ident[i] = "s";
             }
         }
+
         for (int i = 0; i < n.size(); i ++){
-            for (int j = 0; j < n.size(); j ++){
+            for (int j = 0; j < n.size()-1; j ++){
                 if (n.get(j)<n.get(j+1)){
                     int tmp = n.get(j);
                     n.set(j, n.get(j+1));
@@ -50,12 +48,31 @@ public class Solution {
                 }
             }
         }
-        for (int i = 0; i < s.size(); i ++){
-            if (isGreaterThan(s.get(i), s.get(i+1))){
 
+        for (int j = 0; j < s.size(); j ++) {
+            for (int i = 0; i < s.size()-1; i++) {
+                if (isGreaterThan(s.get(i), s.get(i + 1))) {
+                    String tmp = s.get(i + 1);
+                    s.set(i + 1, s.get(i));
+                    s.set(i, tmp);
+                }
             }
         }
 
+        String[] res = new String[ident.length];
+        int nInd = 0;
+        int sInd = 0;
+
+        for (int i = 0; i < ident.length ; i ++){
+            if (ident[i].equals("n")){
+                res[i] =  n.get(nInd).toString();
+                nInd ++;
+            }else {
+                res[i] =  s.get(sInd);
+                sInd ++;
+            }
+            System.out.println(res[i]);
+        }
     }
 
     // Метод для сравнения строк: 'а' больше чем 'b'
