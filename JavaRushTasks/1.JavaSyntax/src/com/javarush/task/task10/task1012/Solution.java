@@ -30,15 +30,29 @@ public class Solution {
 
 
         // напишите тут ваш код
+        //заносим все строки в лист Character
+        ArrayList<Character> listCh = new ArrayList<Character>();
+        for (String s: list) {
+            Character[] c = new Character[s.length()]; //записвается по одной строке из ввода
+            for (int i = 0; i < s.length(); i ++){
+                c[i] = s.charAt(i);
+            }
+            for (int i = 0; i < c.length; i ++){
+                listCh.add(c[i]);
+            }
+        }
+
+
         int[] counter = new int[abc.length()];
         for (int i = 0; i < counter.length; i ++){
             counter[i] = 0;
         }
-        for (int i = 0; i < list.size(); i ++){
-            System.out.println(list.get(i));
-            for (int j = 0; j < abcArray.length; j ++) {
 
-                if(list.get(i).equals(abcArray[j])){
+        for (int i = 0; i < listCh.size(); i ++){
+
+            for (int j = 0; j < abc.length(); j ++) {
+
+                if(listCh.get(i).equals(abcArray[j])){
                     counter[j] ++;
                 }
             }
