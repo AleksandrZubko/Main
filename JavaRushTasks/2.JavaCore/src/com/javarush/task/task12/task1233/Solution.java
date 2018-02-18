@@ -22,20 +22,19 @@ public class Solution {
         //напишите тут ваш код
         else {
             int min = array[0];
-            for (int i = 0; i < array.length; i ++){
-                for (int j = i + 1; j < array.length; i ++){
-                    
-                }
+            int minInd = 0;
+            for (int i = 0; i < array.length-1; i ++){
+                    if (min > array[i+1]){
+                        min = array[i+1];
+                        minInd = i+1;
+                    }
             }
-
-            return new Pair<Integer, Integer>(0, 0);
+            return new Pair<Integer, Integer>(min, minInd);
         }
-
     }
 
-
-    public static class Pair<X, Y> {
-        public X x;
+    public static class Pair<X, Y> { //generic (обопщение), Угловые скобки указывают, что параметр может быть обобщён
+        public X x;  //здесь подставляется тип, который передаётся параметром в класс
         public Y y;
 
         public Pair(X x, Y y) {
