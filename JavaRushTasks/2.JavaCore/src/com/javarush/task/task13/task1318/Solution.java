@@ -22,6 +22,6 @@ public class Solution {
         }
         inStream.close(); //закрываем потоки FileInputStream
         reader.close(); //закрываем потоки BufferedReader
-        
+
     }
 }
