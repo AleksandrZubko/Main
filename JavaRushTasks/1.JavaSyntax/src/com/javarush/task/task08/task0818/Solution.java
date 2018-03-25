@@ -28,16 +28,16 @@ public class Solution {
                 it.remove();    //удаление элемента
             }
         }
-
+        /*
         map.forEach((key, value) -> { //прохоим циклом по всему HashMap
             System.out.println(key + " " + value);  //getKey() возвращает ключ, getValue() возвращает значение
         });
-
+        */
     }
 
     public static void main(String[] args) {
-        HashMap<String, Integer> map = createMap();
-        removeItemFromMap(map);
+        //HashMap<String, Integer> map = createMap();
+        //removeItemFromMap(map);
 
     }
 }
