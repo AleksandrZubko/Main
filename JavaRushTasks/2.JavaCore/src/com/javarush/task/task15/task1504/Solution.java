@@ -32,6 +32,11 @@ public class Solution {
 
             String output = "output";
             //Add your code here
+            if (this instanceof MarkTwainBook){
+                output = markTwainOutput;
+            }else {
+                output = agathaChristieOutput;
+            }
 
             return output;
         }
@@ -45,6 +50,26 @@ public class Solution {
         public MarkTwainBook(String title){
             super("Mark Twain");
             this.title = title;
+        }
+        public MarkTwainBook getBook(){
+            return this;
+        }
+        public String getTitle(){
+            return this.title;
+        }
+    }
+
+    public static class AgathaChristieBook extends Book{
+        public String title;
+        public AgathaChristieBook(String title){
+            super("Agatha Christie");
+            this.title = title;
+        }
+        public AgathaChristieBook getBook(){
+            return this;
+        }
+        public String getTitle(){
+            return this.title;
         }
     }
 }
