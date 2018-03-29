@@ -29,7 +29,6 @@ public class Solution {
             }else{
                 return name + " не содержит кости";
             }
-
         }
     }
 
