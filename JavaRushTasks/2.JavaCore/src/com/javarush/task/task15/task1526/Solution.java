@@ -14,10 +14,10 @@ public class Solution {
 
         public A(int f1) {
             this.f1 = f1;
-            initialize();
+            //initialize();
         }
 
-        protected void initialize() {
+        private void initialize() {
             System.out.println(f1);
         }
     }
@@ -27,6 +27,7 @@ public class Solution {
 
         public B(int f1) {
             super(f1);
+            super.initialize();
             this.f1 += f1;
             initialize();
         }

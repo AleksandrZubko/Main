@@ -12,7 +12,7 @@ public class Solution {
     public static abstract class Money {
         abstract Money getMoney();
 
-        public double getAmount() {
+        public Object getAmount() {
             return getMoney().getAmount();
         }
     }
@@ -26,7 +26,7 @@ public class Solution {
         }
 
         @Override
-        public double getAmount() {
+        public Object getAmount() {
             return amount;
         }
     }
