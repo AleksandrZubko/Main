@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hillel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hillel_jar</output-path>
+    <root id="archive" name="Hillel.jar">
+      <element id="module-output" name="Hillel" />
+    </root>
+  </artifact>
+</component>
