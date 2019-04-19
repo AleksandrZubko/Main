@@ -3,12 +3,14 @@ import java.util.*;
 import java.io.File;
 public class Test {
     public static void main(String[] args) {
-        /*
+
         Calendar calendar = new GregorianCalendar();
+        System.out.println(calendar.get(calendar.HOUR_OF_DAY) + ":" + calendar.get(calendar.MINUTE));
+        Date dt = new Date();
+        System.out.println(dt);
         //calendar.add(Calendar.DAY_OF_MONTH,-1);
-        System.out.println(Calendar.DAY_OF_MONTH);
         //System.out.println(calendar.get(Calendar.DAY_OF_WEEK));
-        */
+
 /*
         Calendar c = Calendar.getInstance();
         Calendar calendar = new GregorianCalendar();
@@ -208,6 +210,7 @@ public class Test {
                 }
                 return c;
 */
+/*
         String s = "34941000.00";
         double d = Double.parseDouble(s);
         if (d == 3494100.00) {
@@ -215,5 +218,6 @@ public class Test {
         }else {
             System.out.println(0);
         }
+        */
     }
 }
