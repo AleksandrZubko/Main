@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class WorkWithGremlin {
+    final static String pathToGremlin = "/home/DN230483ZAV2/Gremlin_test/Gremlin/"; //для теста
+    //final static String pathToGremlin = "/DATA/Gremlin/";                              //боевой
+
     public static String distributor(String operation, String pathBsh) {
 
         Map<String, String> defaultAnswerMap = new HashMap<String, String>();
@@ -48,7 +51,7 @@ public class WorkWithGremlin {
         String[] result = new String[2];
         Process proc = null;
         int counter = 0;
-        String[] command = {"/bin/sh", "-c", "cd /home/DN230483ZAV2/Gremlin_test/Gremlin/; ./Client.sh 10.62.11.81 start " + path};
+        String[] command = {"/bin/sh", "-c", "cd " + pathToGremlin + "; ./Client.sh 10.62.11.81 start " + path};  //для теста
         try {
             proc = Runtime.getRuntime().exec(command);
         } catch (IOException e) {
@@ -84,7 +87,7 @@ public class WorkWithGremlin {
         String[] result = new String[2];
         Process proc = null;
         int counter = 0;
-        String[] command = {"/bin/sh", "-c", "cd /home/DN230483ZAV2/Gremlin_test/Gremlin/; ./Client.sh 10.62.11.81 kill " + path};
+        String[] command = {"/bin/sh", "-c", "cd " + pathToGremlin + "; ./Client.sh 10.62.11.81 kill " + path};
         try {
             proc = Runtime.getRuntime().exec(command);
         } catch (IOException e) {
@@ -120,7 +123,7 @@ public class WorkWithGremlin {
         String[] result = new String[2];
         Process proc = null;
         int counter = 0;
-        String[] command = {"/bin/sh", "-c", "cd /home/DN230483ZAV2/Gremlin_test/Gremlin/; ./Client.sh 10.62.11.81 list"};
+        String[] command = {"/bin/sh", "-c", "cd " + pathToGremlin + "; ./Client.sh 10.62.11.81 list"};
         try {
             proc = Runtime.getRuntime().exec(command);
         } catch (IOException e) {
