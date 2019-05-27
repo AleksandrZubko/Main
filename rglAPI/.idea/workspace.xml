@@ -6,23 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96879b09-e866-45fe-9051-e14c057c6dca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/rglAPI_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/.idea/artifacts/rplAPImaven_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/rplAPImaven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rplAPImaven/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/rglAPI_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/rglAPI_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/rglAPI/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java" afterDir="false" />
-    </list>
+    <list default="true" id="96879b09-e866-45fe-9051-e14c057c6dca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="-780">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +197,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -413,23 +397,25 @@
       <workItem from="1557849796198" duration="596000" />
       <workItem from="1557852410218" duration="22535000" />
       <workItem from="1558427228069" duration="33000" />
+      <workItem from="1558427371407" duration="335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40076000" />
+    <option name="totallyTimeSpent" value="40411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49268842" visible="true" weight="0.26947704" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49156356" visible="true" weight="0.27267876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.5073116" side_tool="true" visible="true" weight="0.26947704" />
+      <window_info id="Web" order="7" sideWeight="0.50843644" side_tool="true" visible="true" weight="0.27267876" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
@@ -469,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="-780">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
