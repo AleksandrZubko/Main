@@ -1,8 +1,4 @@
-import java.io.File;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
+import java.util.Base64;
 
 public class Horse {
     public static void main(String[] args) {
@@ -91,7 +87,7 @@ public class Horse {
         sRes += s.substring(s.lastIndexOf('.'));
         System.out.println(sRes);
         */
-
+/*
         GregorianCalendar c = new GregorianCalendar();
         c.add(c.DATE, -1);
         String yesterdayMonth;
@@ -102,5 +98,21 @@ public class Horse {
         }
 
         System.out.println(c.get(Calendar.YEAR) + "-" + yesterdayMonth + "-" + c.get(Calendar.DATE));
+
+ */
+/*
+        String base64 = "MTkwNjE4Y3NiMWdsd28xM3hmNm4=";
+        Base64.Decoder dec = Base64.getDecoder();
+
+        System.out.println(new String(dec.decode(base64)));
+*/
+        try {
+            String asB64 = Base64.getEncoder().encodeToString("yhfurueiyf".getBytes("utf-8"));
+            System.out.println(asB64);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+
     }
 }

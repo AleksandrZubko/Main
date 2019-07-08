@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="iText">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/barcodes-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/forms-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/io-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/kernel-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/layout-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdfa-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdftest-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/sign-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/svg-7.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/barcodes-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/forms-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/io-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/kernel-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/layout-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdfa-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdftest-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/sign-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/svg-7.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/barcodes-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/forms-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/io-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/kernel-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/layout-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdfa-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/pdftest-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/sign-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/svg-7.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

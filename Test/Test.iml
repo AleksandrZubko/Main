@@ -7,5 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="others" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="fontbox-2.0.2" level="project" />
+    <orderEntry type="library" name="iText" level="project" />
+    <orderEntry type="library" name="iText7-Core-7.1" level="project" />
+    <orderEntry type="library" name="slf4j-simple-1.7.26" level="project" />
+    <orderEntry type="library" name="postgresql-42.2.5" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.0" level="project" />
   </component>
 </module>
