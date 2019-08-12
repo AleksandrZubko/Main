@@ -1,13 +1,61 @@
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 
-import java.util.*;
-import java.io.File;
 public class Test {
     public static void main(String[] args) {
 
         Calendar calendar = new GregorianCalendar();
+        calendar.add(Calendar.MONTH,-1);
         System.out.println(calendar.get(calendar.HOUR_OF_DAY) + ":" + calendar.get(calendar.MINUTE));
-        Date dt = new Date();
-        System.out.println(dt);
+
+        String monthStr = null;
+        int yearInt, monthInt;
+
+        yearInt = calendar.get(calendar.YEAR);
+        monthInt = calendar.get(calendar.MONTH);
+        switch (monthInt) {
+            case 0:
+                monthStr = "январь";
+                break;
+            case 1:
+                monthStr = "февраль";
+                break;
+            case 2:
+                monthStr = "март";
+                break;
+            case 3:
+                monthStr = "апрель";
+                break;
+            case 4:
+                monthStr = "май";
+                break;
+            case 5:
+                monthStr = "июнь";
+                break;
+            case 6:
+                monthStr = "июль";
+                break;
+            case 7:
+                monthStr = "август";
+                break;
+            case 8:
+                monthStr = "сентябрь";
+                break;
+            case 9:
+                monthStr = "октябрь";
+                break;
+            case 10:
+                monthStr = "ноябрь";
+                break;
+            case 11:
+                monthStr = "декабрь";
+                break;
+        }
+        System.out.println(yearInt);
+        System.out.println(monthStr);
+        //Date dt = new Date();
+        //System.out.println(dt);
+
         //calendar.add(Calendar.DAY_OF_MONTH,-1);
         //System.out.println(calendar.get(Calendar.DAY_OF_WEEK));
 
@@ -219,5 +267,11 @@ public class Test {
             System.out.println(0);
         }
         */
+/*
+        ServiceUtils su = new ServiceUtils();
+        su.setCurrentSid("190717csb5cygnhgd8ii");
+        System.out.println(su.getCurrentSid());
+        */
+
     }
 }

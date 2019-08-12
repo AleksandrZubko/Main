@@ -1,4 +1,4 @@
-import java.util.Base64;
+import java.util.Calendar;
 
 public class Horse {
     public static void main(String[] args) {
@@ -52,10 +52,26 @@ public class Horse {
         System.out.println(args[0]);
 */
 
- /*       GregorianCalendar c = new GregorianCalendar();
+    //GregorianCalendar c = new GregorianCalendar();
+
+        //максимальная дата текущего месяца
+        int currentDay, lastDay, currentDayOfWeek;
+        Calendar c = Calendar.getInstance();
+        currentDay = c.get(c.DAY_OF_MONTH);
+        currentDayOfWeek = c.get(c.DAY_OF_WEEK);
+        c.set(Calendar.DAY_OF_MONTH, c.getActualMaximum(Calendar.DAY_OF_MONTH));
+        lastDay = c.get(c.DAY_OF_MONTH);
+        if (currentDay == lastDay || currentDayOfWeek == 6) {  //последний день месяца или пятница
+            System.out.println("Выполняем");
+        } else {
+            System.out.println("Сегодня не последний день текущего месяца");
+        }
+
+
+        //добавляем 3 мес
         c.add(Calendar.MONTH,3);
         System.out.println(c.get(c.MONTH));
-        */
+
  /*
         String s = "16399236.00";
 
@@ -106,13 +122,14 @@ public class Horse {
 
         System.out.println(new String(dec.decode(base64)));
 */
+/*
         try {
             String asB64 = Base64.getEncoder().encodeToString("yhfurueiyf".getBytes("utf-8"));
             System.out.println(asB64);
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+*/
 
     }
 }

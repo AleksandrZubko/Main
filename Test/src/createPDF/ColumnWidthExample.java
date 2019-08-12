@@ -16,7 +16,9 @@ package createPDF;
 //ColumnWidthExample.java
 
 // https://itextpdf.com/en/resources/examples/itext-7/cell-and-table-widths
-import com.itextpdf.io.font.constants.StandardFonts;
+
+import com.itextpdf.io.font.FontProgram;
+import com.itextpdf.io.font.FontProgramFactory;
 import com.itextpdf.kernel.colors.DeviceGray;
 import com.itextpdf.kernel.font.PdfFont;
 import com.itextpdf.kernel.font.PdfFontFactory;
@@ -44,19 +46,25 @@ public class ColumnWidthExample  {
 
 
     protected void manipulatePdf(String dest) throws Exception {
+
+        FontProgram fontProgram = FontProgramFactory.createFont("/home/DN230483ZAV2/gitProjectsNew/Mine/Main/Test/fonts/arial.ttf");
+        PdfFont f = PdfFontFactory.createFont(fontProgram, "Cp1251", true);  //для записи кириллицы
+        //PdfFont f = PdfFontFactory.createFont(StandardFonts.TIMES_ROMAN);
+
+
         PdfDocument pdfDoc = new PdfDocument(new PdfWriter(dest));
         // Note that it is not necessary to create new PageSize object,
         // but for testing reasons (connected to parallelization) we call constructor here
         Document doc = new Document(pdfDoc, new PageSize(PageSize.A4).rotate());  //rotate() для горизонтально размещения. без применения будет вертикальное
-
+        doc.setFont(f);
 
         float[] columnWidths = {1, 5, 5};  //ширина столбцов
         Table table = new Table(UnitValue.createPercentArray(columnWidths)); //UnitValue Специализированный класс, который содержит значение и единицу измерения.
         //Table table = new Table(columnWidths);  //будет без пробелов в столбцах (создастся по ширине самой широкой ячейки)
-        PdfFont f = PdfFontFactory.createFont(StandardFonts.COURIER);
+
         Cell cell = new Cell(1, 3)
-                .add(new Paragraph("This is a header"))
-                .setFont(f)
+                .add(new Paragraph("This is a header Это хедер!"))
+                //.setFont(f)
                 .setFontSize(13)
                 .setFontColor(DeviceGray.WHITE)
                 .setBackgroundColor(DeviceGray.BLACK)
@@ -65,9 +73,10 @@ public class ColumnWidthExample  {
         for (int i = 0; i < 2; i++) {
             Cell[] headerFooter = new Cell[]{
                     new Cell().setBackgroundColor(new DeviceGray(0.75f)).add(new Paragraph("#")),
-                    new Cell().setBackgroundColor(new DeviceGray(0.75f)).add(new Paragraph("Key")),
+                    new Cell().setBackgroundColor(new DeviceGray(0.75f)).add(new Paragraph("Key Ключ")).setFont(f),
                     new Cell().setBackgroundColor(new DeviceGray(0.75f)).add(new Paragraph("Value"))
             };
+
             for (Cell hfCell : headerFooter) {
                 if (i == 0) {
                     table.addHeaderCell(hfCell);

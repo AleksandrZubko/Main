@@ -15,5 +15,8 @@
     <orderEntry type="library" name="slf4j-simple-1.7.26" level="project" />
     <orderEntry type="library" name="postgresql-42.2.5" level="project" />
     <orderEntry type="library" name="commons-lang3-3.0" level="project" />
+    <orderEntry type="library" name="itextpdf-5.4.0" level="project" />
+    <orderEntry type="library" name="xmlworker-5.4.5" level="project" />
+    <orderEntry type="library" name="jsch-0.1.55" level="project" />
   </component>
 </module>

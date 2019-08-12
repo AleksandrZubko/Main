@@ -90,7 +90,6 @@ public class DatabaseConnector {
 
         int count = 0;
         String query = "select count(*) as cnt from public.data_i_java_services where upper(login) = upper('" + login + "') and service_name = 'NPL';";
-
         try {
             connection = DriverManager.getConnection(DB_URL, USER, PASS);
             ;
