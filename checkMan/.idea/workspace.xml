@@ -7,36 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7518747e-4da8-4dd7-81e6-8b1b29b0adb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/itextpdf_5_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/xmlworker_5_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/HtmlToPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/ServiceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/SshConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/CXPOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/NRMSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/checkMan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkMan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/createPDF/ColumnWidthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/createPDF/ColumnWidthExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/out/artifacts/nplApi_war/nplApi_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/out/artifacts/nplApi_war/nplApi_war.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/src/com/operations/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/src/com/operations/DatabaseConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="116" lean-forward="true" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
+            <state relative-caret-position="270">
+              <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,14 +54,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/operations/Operations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="345">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2389#2390#0" expanded="true" />
-                <element signature="e#2453#2454#0" expanded="true" />
-                <element signature="e#2511#2512#0" expanded="true" />
-                <element signature="e#2568#2569#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,90 +104,15 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="checkMan_war_exploded" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="operations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="checkMan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkMan" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cj9" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -329,23 +221,24 @@
       <workItem from="1565336425207" duration="2162000" />
       <workItem from="1565340465343" duration="2217000" />
       <workItem from="1565350809844" duration="7700000" />
+      <workItem from="1565681351963" duration="398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30774000" />
+    <option name="totallyTimeSpent" value="31172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496063" visible="true" weight="0.25773746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49381328" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.503937" side_tool="true" visible="true" weight="0.25773746" />
+      <window_info id="Web" order="7" sideWeight="0.5061867" side_tool="true" visible="true" weight="0.26307365" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
@@ -392,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="116" lean-forward="true" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
+        <state relative-caret-position="270">
+          <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -402,14 +295,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/Operations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2389#2390#0" expanded="true" />
-            <element signature="e#2453#2454#0" expanded="true" />
-            <element signature="e#2511#2512#0" expanded="true" />
-            <element signature="e#2568#2569#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fa85a36-0b33-486e-b162-0e7bddba2bec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/itextpdf_5_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/xmlworker_5_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestsForWork/HtmlToPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestsForWork/ServiceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestsForWork/SshConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sendToCXP/CXPOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sendToCXP/NRMSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/artifacts/checkMan_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/libraries/commons_lang3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/checkMan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/src/com/operations/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/web/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createPDF/ColumnWidthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/createPDF/ColumnWidthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cj9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cj9/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/out/artifacts/nplApi_war/nplApi_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/out/artifacts/nplApi_war/nplApi_war.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/src/com/operations/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/src/com/operations/DatabaseConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,22 +15,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestsForWork/SshConnector.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_1/Test_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="495">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Horse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="193" column="24" lean-forward="true" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,72 +43,21 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>addPage</find>
-      <find>SessionsChecker</find>
-      <find>PostHTTPSTest</find>
-      <find>getCurrentSid</find>
-      <find>setCurrentSid</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/prometheus/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/Test_2/Point.java" />
-        <option value="$PROJECT_DIR$/src/Test_3/Test_3.java" />
-        <option value="$PROJECT_DIR$/src/Test_3/Test_4.java" />
-        <option value="$PROJECT_DIR$/src/Test_1/Test_6.java" />
-        <option value="$PROJECT_DIR$/src/JarLib/edu/javacourse/jar/SayHello.java" />
-        <option value="$PROJECT_DIR$/src/JarLib/UseHello.java" />
-        <option value="$PROJECT_DIR$/src/Test_1/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/Test_4/Test_4.java" />
-        <option value="$PROJECT_DIR$/src/Test_tRefDays/tRefDays.java" />
-        <option value="$PROJECT_DIR$/src/Test_4/Test_6.java" />
-        <option value="$PROJECT_DIR$/src/TestJavaRush/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/TestsForWork/TestArrayList.java" />
-        <option value="$PROJECT_DIR$/src/FileCreationDate/FileCreationDate.java" />
-        <option value="$PROJECT_DIR$/src/sendMail/SandMail.java" />
-        <option value="$PROJECT_DIR$/src/sendMail/SendMail.java" />
-        <option value="$PROJECT_DIR$/src/createPDF/PDFCreator.java" />
-        <option value="$PROJECT_DIR$/src/createPDF/PDFCreatorWithPdfBox.java" />
-        <option value="$PROJECT_DIR$/src/createPDF/PDFCreatorWithIText.java" />
-        <option value="$PROJECT_DIR$/src/createXML/SessionsCheck.java" />
-        <option value="$PROJECT_DIR$/src/createXML/DataNPL.java" />
-        <option value="$PROJECT_DIR$/src/createXML/PostgreSQLConnect.java" />
-        <option value="$PROJECT_DIR$/src/createXML/ValidatorParam.java" />
-        <option value="$PROJECT_DIR$/src/createXML/XMLCreator.java" />
-        <option value="$PROJECT_DIR$/src/createXML/SessionsChecker.java" />
-        <option value="$PROJECT_DIR$/src/createXML/CIDChecker.java" />
-        <option value="$PROJECT_DIR$/src/createXML/DatabaseConnector.java" />
-        <option value="$PROJECT_DIR$/src/createXML/StartClass.java" />
-        <option value="$PROJECT_DIR$/src/sendToCXP/NRMSession.java" />
-        <option value="$PROJECT_DIR$/src/TestsForWork/ServiceUtils.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/sendToCXP/CXPOperation.java" />
-        <option value="$PROJECT_DIR$/src/TestsForWork/HtmlToPdf.java" />
-        <option value="$PROJECT_DIR$/src/createPDF/ColumnWidthExample.java" />
-        <option value="$PROJECT_DIR$/src/sendToCXP/StartClass.java" />
         <option value="$PROJECT_DIR$/src/Horse.java" />
-        <option value="$PROJECT_DIR$/src/TestsForWork/SshConnector.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
     <option name="width" value="1920" />
-    <option name="height" value="1034" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,8 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +89,37 @@
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="TestsForWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,12 +136,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547727208839" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.18450183" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,156 +150,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SshConnector">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ColumnWidthExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="createPDF.ColumnWidthExample" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="createPDF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Horse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Horse" />
       <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HtmlToPdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestsForWork.HtmlToPdf" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestsForWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SshConnector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestsForWork.SshConnector" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestsForWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StartClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sendToCXP.StartClass" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sendToCXP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.StartClass (1)" />
-      <item itemvalue="Application.ColumnWidthExample" />
-      <item itemvalue="Application.HtmlToPdf" />
-      <item itemvalue="Application.Horse" />
-      <item itemvalue="Application.SshConnector" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SshConnector" />
         <item itemvalue="Application.Horse" />
-        <item itemvalue="Application.StartClass (1)" />
-        <item itemvalue="Application.ColumnWidthExample" />
-        <item itemvalue="Application.HtmlToPdf" />
       </list>
     </recent_temporary>
   </component>
@@ -355,52 +169,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4fa85a36-0b33-486e-b162-0e7bddba2bec" name="Default" comment="" />
-      <created>1482759450914</created>
+      <changelist id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="" />
+      <created>1565702020852</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1482759450914</updated>
-      <workItem from="1555655536467" duration="80000" />
-      <workItem from="1558960055596" duration="657000" />
-      <workItem from="1558961022982" duration="281000" />
-      <workItem from="1558961850502" duration="1011000" />
-      <workItem from="1559137584267" duration="2506000" />
-      <workItem from="1559632997969" duration="3403000" />
-      <workItem from="1559827944043" duration="14594000" />
-      <workItem from="1560350491789" duration="2535000" />
-      <workItem from="1560851605661" duration="12997000" />
-      <workItem from="1561011533275" duration="28648000" />
-      <workItem from="1562142495766" duration="6907000" />
-      <workItem from="1562221809515" duration="7015000" />
-      <workItem from="1562245026774" duration="767000" />
-      <workItem from="1562247533287" duration="120000" />
-      <workItem from="1562677433987" duration="8877000" />
-      <workItem from="1562837634283" duration="12554000" />
-      <workItem from="1562925276378" duration="697000" />
-      <workItem from="1562937590244" duration="1489000" />
-      <workItem from="1563263429851" duration="731000" />
-      <workItem from="1563287489420" duration="3519000" />
-      <workItem from="1563781268249" duration="2907000" />
-      <workItem from="1564408546594" duration="15494000" />
-      <workItem from="1564558991508" duration="9141000" />
-      <workItem from="1564572913413" duration="1063000" />
-      <workItem from="1564665808359" duration="1019000" />
-      <workItem from="1564723898284" duration="3321000" />
-      <workItem from="1564986573402" duration="297000" />
-      <workItem from="1565166838037" duration="1560000" />
-      <workItem from="1565347907484" duration="2871000" />
-      <workItem from="1565351067591" duration="35000" />
+      <updated>1565702020852</updated>
+      <workItem from="1565702022832" duration="3585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147096000" />
+    <option name="totallyTimeSpent" value="6082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1034" extended-state="6" />
+    <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2614728" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27427962" />
+      <window_info id="Structure" order="1" weight="0.2497332" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -436,36 +222,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test.iml">
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_2/Test_1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test_3/Test_4.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test_3/Test_3.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test_1/Test_6.java" />
-    <entry file="file://$PROJECT_DIR$/src/JarLib/edu/javacourse/jar/SayHello.class" />
-    <entry file="file://$PROJECT_DIR$/src/JarLib/UseHello.java" />
-    <entry file="file://$PROJECT_DIR$/src/JarLib/edu/javacourse/jar/SayHello.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test_4/Test_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestJavaRush/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="804">
+          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -476,105 +237,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_4/Test_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestsForWork/TestArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/TestsForWork/SshConnector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sendMail/SandMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test_tRefDays/tRefDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sendMail/SendMail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/others.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createPDF/PDFCreator.java" />
-    <entry file="jar://$USER_HOME$/libJava/pdfbox-2.0.15.jar!/org/apache/pdfbox/pdmodel/PDPage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/pdfbox-2.0.15-sources.jar!/org/apache/pdfbox/pdmodel/PDDocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/pdfbox-2.0.15-sources.jar!/org/apache/pdfbox/pdmodel/PDPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/libJava/pdfbox-2.0.15.jar!/org/apache/pdfbox/pdmodel/PDDocument.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="121" column="23" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#33960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Test/createPDF/PDFCreatorWithPdfBox.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#976#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileCreationDate/FileCreationDate.java" />
-    <entry file="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6-sources.jar!/com/itextpdf/styledxmlparser/jsoup/nodes/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6-sources.jar!/com/itextpdf/styledxmlparser/jsoup/nodes/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/styled-xml-parser-7.1.6-sources.jar!/com/itextpdf/styledxmlparser/jsoup/nodes/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="59" column="37" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createPDF/PDFCreatorWithPdfBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="88" lean-forward="true" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -583,239 +249,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test_1/Test_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createXML/PostgreSQLConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="59" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createXML/SessionsCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2444#2445#0" expanded="true" />
-            <element signature="e#2479#2480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createXML/DatabaseConnector.java" />
-    <entry file="file://$PROJECT_DIR$/src/createXML/DataNPL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="56" selection-start-line="1" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createXML/XMLCreator.java" />
-    <entry file="file://$PROJECT_DIR$/src/createXML/ValidatorParam.java" />
-    <entry file="file://$PROJECT_DIR$/src/createXML/CIDChecker.java" />
-    <entry file="file://$PROJECT_DIR$/src/createXML/SessionsChecker.java" />
-    <entry file="file://$PROJECT_DIR$/src/createXML/StartClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="71" lean-forward="true" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestsForWork/ServiceUtils.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/nio/HeapIntBuffer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/libJava/iText7-Core-7.1.6/layout-7.1.6-sources.jar!/com/itextpdf/layout/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="495">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Horse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="52" column="2" lean-forward="true" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sendToCXP/StartClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="699">
+          <caret line="193" column="24" lean-forward="true" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sendToCXP/NRMSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sendToCXP/CXPOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestsForWork/HtmlToPdf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createPDF/PDFCreatorWithIText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/createPDF/ColumnWidthExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestsForWork/SshConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>unnamed</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Test</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>jsch-0.1.55</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

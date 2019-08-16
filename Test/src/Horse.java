@@ -1,4 +1,9 @@
-import java.util.Calendar;
+import Test_2.Point;
+
+import java.lang.reflect.AccessibleObject;
+import java.lang.reflect.Array;
+import java.lang.reflect.Field;
+import java.util.Arrays;
 
 public class Horse {
     public static void main(String[] args) {
@@ -53,7 +58,7 @@ public class Horse {
 */
 
     //GregorianCalendar c = new GregorianCalendar();
-
+/*
         //максимальная дата текущего месяца
         int currentDay, lastDay, currentDayOfWeek;
         Calendar c = Calendar.getInstance();
@@ -71,7 +76,7 @@ public class Horse {
         //добавляем 3 мес
         c.add(Calendar.MONTH,3);
         System.out.println(c.get(c.MONTH));
-
+*/
  /*
         String s = "16399236.00";
 
@@ -131,5 +136,61 @@ public class Horse {
         }
 */
 
+
+/*
+        Point p = new Point(3);
+        Class cl = p.getClass();  //class Test_2.Point
+        Field f = null;
+        Object v = null;
+        Field[] ff = cl.getDeclaredFields();  //получаем все поля класса
+        try {
+            f = cl.getDeclaredField("color");  //private int Test_2.Point.color
+            f.setAccessible(true);  //даёт доступ к приватному полю color
+            AccessibleObject.setAccessible(ff, true);  //
+            v = f.get(p);  //3
+            System.out.println(cl);  //class Test_2.Point
+            System.out.println(f);  //private int Test_2.Point.color
+            System.out.println(v);  //3
+            f.set(p, 4);    //меняем значение поля в объекте
+            v = f.get(p);
+            System.out.println(v);  //
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println(cl.getSuperclass());  //class java.lang.Object
+
+        String str = "daswed] bdmf cf- cred";
+        System.out.println(str.endsWith("d"));  //возвращает true, если строка закнчивается указанным символом
+
+    */
+
+        Integer[] arr = {1, 2, 3};
+        arr = Arrays.copyOf(arr,2*arr.length);  //увеличиваем длину массива
+        arr[3] = 4;
+
+        arr = (Integer[])goodCopyOf(arr, 3);
+        for (int i: arr) {
+            System.out.println(i);
+        }
+
+
+
+
+
+
+
+
+    }
+
+    public static Object goodCopyOf (Object a, int newLength) { //метод изменения длинны массива (на вход принимает массив с элементами любого типа)
+        Class cl = a.getClass();
+        if (!cl.isArray()){  //определяем является ли аргумент массивом
+            return null;
+        }
+        Class componentType = cl.getComponentType(); //определяем тип данных в массиве
+        int length = Array.getLength(a);  //определяет длинну массива
+        Object newArray = Array.newInstance(componentType, newLength);  //создаём массив требемого типа и длины
+        System.arraycopy (a, 0, newArray, 0, Math.min(length, newLength)); //копируем элементы массива, который пришёл на вход, в новый массив
+        return newArray;
     }
 }
