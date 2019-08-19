@@ -4,9 +4,11 @@ import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.util.Arrays;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 
 public class Horse {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         String a = "123  ";
         /*
         double d = 90;
@@ -163,7 +165,10 @@ public class Horse {
         System.out.println(str.endsWith("d"));  //возвращает true, если строка закнчивается указанным символом
 
     */
-
+        Calendar c = new GregorianCalendar();
+        if (c.getClass() == new GregorianCalendar().getClass()){  //сверяем классы
+            System.out.println("good");
+        }
         Integer[] arr = {1, 2, 3};
         arr = Arrays.copyOf(arr,2*arr.length);  //увеличиваем длину массива
         arr[3] = 4;
@@ -173,9 +178,10 @@ public class Horse {
             System.out.println(i);
         }
 
+        double y = (Double) Math.class.getMethod("sqrt", double.class).invoke(null, 4); //из класса Math вызываем метод sqrt с аргументом 4, в invoke()
+        // Если метод статический, то первый параметр игнорируется, а вместо него можно указать пустое значение null
 
-
-
+        System.out.println(y);
 
 
 
