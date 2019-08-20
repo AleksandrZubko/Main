@@ -1,3 +1,4 @@
+import Test_1.Test_1;
 import Test_2.Point;
 
 import java.lang.reflect.AccessibleObject;
@@ -166,6 +167,9 @@ public class Horse {
 
     */
         Calendar c = new GregorianCalendar();
+        int res = Double.compare(1.0, 2.0);  //-1 если первое число меньше второго, 0 - если одинаковые, -1 - если второе число больше первого
+
+        System.out.println(res);
         if (c.getClass() == new GregorianCalendar().getClass()){  //сверяем классы
             System.out.println("good");
         }
@@ -178,10 +182,13 @@ public class Horse {
             System.out.println(i);
         }
 
+
+
         double y = (Double) Math.class.getMethod("sqrt", double.class).invoke(null, 4); //из класса Math вызываем метод sqrt с аргументом 4, в invoke()
         // Если метод статический, то первый параметр игнорируется, а вместо него можно указать пустое значение null
 
         System.out.println(y);
+        System.out.println(Integer.MAX_VALUE);
 
 
 
