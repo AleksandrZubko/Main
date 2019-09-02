@@ -52,7 +52,7 @@ public class Operations {
                 }
 
                 if (StringUtils.substringBetween(result[0], "{\"", "\" :").equals("procId")) {
-                    answer = "{\"status\": \"access\", \"result\":\"" + result[0] + "\"}";
+                    answer = "{\"status\": \"success\", \"result\":" + result[0] + "}";
                 } else {
                     answer = "{\"status\": \"fail\", \"result\":\"execution failure /DATA/script/RGL/CheckLog/checksMongo.sh\" }";
                 }

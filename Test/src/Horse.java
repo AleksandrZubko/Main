@@ -1,6 +1,7 @@
 import Test_1.Test_1;
 import Test_2.Point;
 
+import java.awt.*;
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
@@ -190,6 +191,7 @@ public class Horse {
         System.out.println(y);
         System.out.println(Integer.MAX_VALUE);
 
+        Toolkit.getDefaultToolkit().beep(); //выпускает звук
 
 
 

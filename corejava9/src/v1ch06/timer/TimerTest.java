@@ -16,14 +16,14 @@ public class TimerTest
 {  
    public static void main(String[] args)
    {  
-      ActionListener listener = new TimePrinter();
+      ActionListener listener = new TimePrinter();  //нужно сначала определить класс, реализующий интерфейс ActionListener
 
       // construct a timer that calls the listener
       // once every 10 seconds
-      Timer t = new Timer(10000, listener);
-      t.start();
+      Timer t = new Timer(10000, listener);  //Создает таймер, передающий сообщение приемнику событий listener по истечении интервалавремени, продолжительность которого задается параметром i n t e r v a l .
+      t.start(); //таймер запускается
 
-      JOptionPane.showMessageDialog(null, "Quit program?");
+      JOptionPane.showMessageDialog(null, "Quit program?");  //Выводит на экран диалоговое окно со строкой сообщения и кнопкой О К
       System.exit(0);
    }
 }

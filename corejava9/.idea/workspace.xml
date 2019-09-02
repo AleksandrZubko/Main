@@ -4,7 +4,8 @@
     <list default="true" id="b79507b7-be4e-44c3-a16e-4fe44c38a257" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v1ch06/clone/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1ch06/clone/CloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/timer/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1ch06/timer/TimerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +21,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/v1ch06/staticInnerClass/StaticInnerClassTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/v2ch06/progressBar/ProgressBarFrame.java" />
-        <option value="$PROJECT_DIR$/src/v2ch06/progressBar/ProgressBarTest.java" />
         <option value="$PROJECT_DIR$/src/v2ch06/progressMonitor/ProgressMonitorFrame.java" />
         <option value="$PROJECT_DIR$/src/v2ch06/progressMonitor/ProgressMonitorTest.java" />
         <option value="$PROJECT_DIR$/src/v2ch06/progressMonitorInputStream/ProgressMonitorInputStreamTest.java" />
@@ -79,12 +88,14 @@
         <option value="$PROJECT_DIR$/src/v1ch05/methods/MethodTableTest.java" />
         <option value="$PROJECT_DIR$/src/v1ch06/clone/CloneTest.java" />
         <option value="$PROJECT_DIR$/src/v1ch06/clone/Employee.java" />
+        <option value="$PROJECT_DIR$/src/v1ch06/timer/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/v1ch06/innerClass/InnerClassTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2057" />
-    <option name="y" value="15" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="426" />
+    <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="1016" />
   </component>
@@ -119,7 +130,30 @@
               <item name="corejava9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="v1ch06" type="462c0819:PsiDirectoryNode" />
-              <item name="clone" type="462c0819:PsiDirectoryNode" />
+              <item name="anonymousInnerClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="corejava9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="anonymousInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="AnonymousInnerClassTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="corejava9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="staticInnerClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="corejava9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="staticInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="StaticInnerClassTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +167,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535723795896" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checkMan" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -148,9 +182,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CloneTest">
+  <component name="RunManager" selected="Application.StaticInnerClassTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch06.anonymousInnerClass.AnonymousInnerClassTest" />
+      <module name="corejava9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch06.anonymousInnerClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,13 +231,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch05.methods.MethodTableTest" />
+    <configuration name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch06.staticInnerClass.StaticInnerClassTest" />
       <module name="corejava9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch05.methods.*" />
+          <option name="PATTERN" value="v1ch06.staticInnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,27 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAnalyzerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch05.objectAnalyzer.ObjectAnalyzerTest" />
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch06.timer.TimerTest" />
       <module name="corejava9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch05.objectAnalyzer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch05.reflection.ReflectionTest" />
-      <module name="corejava9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="v1ch05.reflection.*" />
+          <option name="PATTERN" value="v1ch06.timer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReflectionTest" />
-      <item itemvalue="Application.ObjectAnalyzerTest" />
-      <item itemvalue="Application.MethodTableTest" />
       <item itemvalue="Application.EmployeeSortTest" />
       <item itemvalue="Application.CloneTest" />
+      <item itemvalue="Application.TimerTest" />
+      <item itemvalue="Application.AnonymousInnerClassTest" />
+      <item itemvalue="Application.StaticInnerClassTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticInnerClassTest" />
+        <item itemvalue="Application.AnonymousInnerClassTest" />
+        <item itemvalue="Application.TimerTest" />
         <item itemvalue="Application.CloneTest" />
         <item itemvalue="Application.EmployeeSortTest" />
-        <item itemvalue="Application.MethodTableTest" />
-        <item itemvalue="Application.ObjectAnalyzerTest" />
-        <item itemvalue="Application.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -323,17 +357,18 @@
       <workItem from="1565701802380" duration="153000" />
       <workItem from="1565701994705" duration="3028000" />
       <workItem from="1565856710198" duration="1100000" />
-      <workItem from="1566200775328" duration="5674000" />
+      <workItem from="1566200775328" duration="14719000" />
+      <workItem from="1566556904831" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14594000" />
+    <option name="totallyTimeSpent" value="24260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2057" y="15" width="1440" height="1016" extended-state="1" />
+    <frame x="426" y="24" width="1440" height="1016" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39598277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40243903" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -343,7 +378,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19729425" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19729425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,34 +410,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/v2ch06/tableSelection/TableSelectionFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch06/tableSelection/TableSelectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch06/textChange/ChangeTrackingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch06/textChange/ColorFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2ch06/textFormat/FormatTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -727,8 +734,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/v1ch06/clone/CloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="315">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06/timer/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06/innerClass/InnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06/anonymousInnerClass/AnonymousInnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch06/staticInnerClass/StaticInnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
