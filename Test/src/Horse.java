@@ -167,6 +167,7 @@ public class Horse {
         System.out.println(str.endsWith("d"));  //возвращает true, если строка закнчивается указанным символом
 
     */
+/*
         Calendar c = new GregorianCalendar();
         int res = Double.compare(1.0, 2.0);  //-1 если первое число меньше второго, 0 - если одинаковые, -1 - если второе число больше первого
 
@@ -193,9 +194,16 @@ public class Horse {
 
         Toolkit.getDefaultToolkit().beep(); //выпускает звук
 
+*/
 
-
+        //выводит названия всех шрифтов, доступных в отдельной системе
+        String[] fontNames = GraphicsEnvironment.getLocalGraphicsEnvironment()
+                .getAvailableFontFamilyNames();
+        for (String fontName : fontNames)
+            System.out.println(fontName);
     }
+
+
 
     public static Object goodCopyOf (Object a, int newLength) { //метод изменения длинны массива (на вход принимает массив с элементами любого типа)
         Class cl = a.getClass();
@@ -208,4 +216,6 @@ public class Horse {
         System.arraycopy (a, 0, newArray, 0, Math.min(length, newLength)); //копируем элементы массива, который пришёл на вход, в новый массив
         return newArray;
     }
+
+
 }

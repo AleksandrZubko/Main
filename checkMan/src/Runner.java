@@ -2,7 +2,7 @@ import com.operations.Operations;
 
 import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
-//http://10.1.196.3:8087/checkMan/run?operation=checkMongo&procId=RESTR&tableName=RESTR.TRESTRUCT2018&checkId=1
+//http://ucs-039.ipa.pbank.com.ua:8097/checkMan/run?operation=checkMongo&procId=RESTR&tableName=RESTR.TRESTRUCT2018&checkId=1
 
 @WebServlet(name = "Runner", urlPatterns = "/run")
 public class Runner extends javax.servlet.http.HttpServlet {

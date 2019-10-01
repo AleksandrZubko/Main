@@ -8,36 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4d69b5-7ba5-4a5e-ba22-6793883026bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/itextpdf_5_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/xmlworker_5_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/HtmlToPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/ServiceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/SshConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/CXPOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/NRMSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/artifacts/checkMan_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/libraries/commons_lang3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/checkMan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/src/com/operations/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkMan/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/createPDF/ColumnWidthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/createPDF/ColumnWidthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/createXML/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/createXML/StartClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../checkMan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkMan/out/artifacts/checkMan/checkMan.war" beforeDir="false" afterPath="$PROJECT_DIR$/../checkMan/out/artifacts/checkMan/checkMan.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkMan/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkMan/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkMan/src/com/operations/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkMan/src/com/operations/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cj9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cj9/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../corejava9/src/v1ch07/draw/DrawTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/src/v1ch07/draw/DrawTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../corejava9/src/v1ch07/notHelloWorld/NotHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/src/v1ch07/notHelloWorld/NotHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../corejava9/src/v1ch07/simpleFrame/SimpleFrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../corejava9/src/v1ch07/simpleFrame/SimpleFrameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/nplApi_war/nplApi_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/nplApi_war/nplApi_war.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operations/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/DatabaseConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="345">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/operations/DatabaseConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="75">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/operations/SessionsChecker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,9 +156,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
     <option name="width" value="1920" />
-    <option name="height" value="1034" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,6 +170,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,7 +222,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +229,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checkMan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../superPuperSpring" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -265,7 +250,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/usr/lib/jvm/java-11-openjdk-amd64" nameIsGenerated="true">
+    <configuration name="Tomcat7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat7.0.94" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/usr/lib/jvm/java-11-openjdk-amd64" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://10.1.196.3:8078/npl/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -415,16 +400,20 @@
       <workItem from="1562771609996" duration="165000" />
       <workItem from="1562836924360" duration="2465000" />
       <workItem from="1565340445578" duration="1371000" />
+      <workItem from="1568113745983" duration="536000" />
+      <workItem from="1569588941590" duration="15000" />
+      <workItem from="1569831060524" duration="68000" />
+      <workItem from="1569832399945" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28086000" />
+    <option name="totallyTimeSpent" value="28980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1034" extended-state="6" />
+    <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832216" visible="true" weight="0.26040554" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832216" visible="true" weight="0.27267876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -506,6 +495,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operations/SessionsChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/DataNPL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -536,28 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/DatabaseConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operations/SessionsChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="75">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

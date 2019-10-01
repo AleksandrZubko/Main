@@ -31,7 +31,7 @@ public class Operations {
                 } else {
                     parametrs = " " + procId + " none " + chid + " " + 1;
                 }
-                //command[3] = "cd /DATA/script/RGL/CheckLog/; ./checksMongo.sh" + parametrs;
+                //command[2] = "cd /DATA/script/RGL/CheckLog/; ./checksMongo.sh" + parametrs;
                 command[2] = "cd /home/jupyter/; ./startCheckMongo.sh" + parametrs;
                 try {
                     proc = Runtime.getRuntime().exec(command);

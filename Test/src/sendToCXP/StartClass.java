@@ -11,8 +11,8 @@ public class StartClass {
         String groupID = "51820907";
         //String format = "html";
         String format = "pdf";
-        String sidValue = "190802csb2wqy6ncsktn";
-        String ticketId = "0000001584528117";
+        String sidValue = "190917csa31r0ab5iye6";
+        String ticketId = "0000001626283593";
         byte[] inputFile = null;
 
         try {
@@ -92,7 +92,7 @@ public class StartClass {
 
         //System.out.println(send);
         String sidKey = "sid";
-        String sidValue = "190729csb28g7onpit3x";
+        //String sidValue = "190912csb1d0h3ub4xem";
 
         String url = null;
                 //url = "https://att.stage.it.loc/all/attachmentservice/obtain.xml";  //тестовый полигон
@@ -114,9 +114,9 @@ public class StartClass {
                "</cxp>";
 
         String rez = NRMSession.PostHTTPSTest(url, send, sidKey, sidValue);
-        System.out.println(rez);
-*/
+        //System.out.println(rez);
 
+*/
 
         //String rez = NRMSession.PostHTTPSTest(url, send);
 /*

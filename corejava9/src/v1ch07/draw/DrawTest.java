@@ -26,7 +26,7 @@ public class DrawTest
 }
 
 /**
- * A frame that contains a panel with drawings
+ * Фрейм, содержащий панель с нарисованными двухмерными формами
  */
 class DrawFrame extends JFrame
 {
@@ -38,7 +38,7 @@ class DrawFrame extends JFrame
 }
 
 /**
- * A component that displays rectangles and ellipses.
+ * Компонент, отображающий прямоугольники и эллипсы
  */
 class DrawComponent extends JComponent
 {
@@ -47,9 +47,12 @@ class DrawComponent extends JComponent
 
    public void paintComponent(Graphics g)
    {
-      Graphics2D g2 = (Graphics2D) g;
 
-      // draw a rectangle
+      //Для того чтобы нарисовать двухмерную форму средствами библиотеки Java 2D,
+      //нужно создать объект класса Graphics 2D
+      Graphics2D g2 = (Graphics2D) g; //Нужно лишь произвести приведение типов
+      g2.setColor(Color.BLUE);  //границы голубым цветом
+      // нарисовать прямоугольник
 
       double leftX = 100;
       double topY = 100;
@@ -59,17 +62,17 @@ class DrawComponent extends JComponent
       Rectangle2D rect = new Rectangle2D.Double(leftX, topY, width, height);
       g2.draw(rect);
 
-      // draw the enclosed ellipse
+      // нарисовать вписанный эллипс
 
       Ellipse2D ellipse = new Ellipse2D.Double();
-      ellipse.setFrame(rect);
+      ellipse.setFrame(rect);  //помещаем в прямоугольник элипс
       g2.draw(ellipse);
 
-      // draw a diagonal line
+      // нарисовать диагональную линию
 
       g2.draw(new Line2D.Double(leftX, topY, leftX + width, topY + height));
 
-      // draw a circle with the same center
+      // нарисовать окружность с тем же самым центром
 
       double centerX = rect.getCenterX();
       double centerY = rect.getCenterY();

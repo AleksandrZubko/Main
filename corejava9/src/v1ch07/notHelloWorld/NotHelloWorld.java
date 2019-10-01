@@ -15,10 +15,10 @@ public class NotHelloWorld
          {
             public void run()
             {
-               JFrame frame = new NotHelloWorldFrame();
-               frame.setTitle("NotHelloWorld");
-               frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-               frame.setVisible(true);
+               JFrame frame = new NotHelloWorldFrame();  //создаём новый фрейм
+               frame.setTitle("NotHelloWorld");  //заголовок
+               frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //указываем, что должно произойти, если закрыть фрейм
+               frame.setVisible(true); //Для отображения фрейма на экране
             }
          });
    }
@@ -31,8 +31,8 @@ class NotHelloWorldFrame extends JFrame
 {
    public NotHelloWorldFrame()
    {
-      add(new NotHelloWorldComponent());
-      pack();
+      add(new NotHelloWorldComponent());  //добавляем компонент
+      pack();  //воспользоваться предпочтительными размерами
    }
 }
 
@@ -47,10 +47,16 @@ class NotHelloWorldComponent extends JComponent
    private static final int DEFAULT_WIDTH = 300;
    private static final int DEFAULT_HEIGHT = 200;
 
-   public void paintComponent(Graphics g)
-   {
-      g.drawString("Not a Hello, World program", MESSAGE_X, MESSAGE_Y);
+   //параметр типа Graphics. При выводе на экран размеры, сохраняемые
+   //в объекте типа Graphics, указываются в пикселях. Координаты (0 ,0 ) соответствуют
+   //левому верхнему углу компонента, на поверхности которого выполняется рисование.
+   public void paintComponent(Graphics g) {  //вызывается автоматически, когда требуется перерисовать окно приложения
+      g.drawString("Not a Hello, World program", MESSAGE_X, MESSAGE_Y);  //написание сообщения
    }
-   
-   public Dimension getPreferredSize() { return new Dimension(DEFAULT_WIDTH, DEFAULT_HEIGHT); }
+
+   //компонент должен сообщить своим пользователям, насколько большим он должен быть
+   //Для этого переопределяется метод getPreferredSize ()
+   public Dimension getPreferredSize() {
+      return new Dimension(DEFAULT_WIDTH, DEFAULT_HEIGHT);  //с предпочтительными шириной и высотой
+   }
 }
