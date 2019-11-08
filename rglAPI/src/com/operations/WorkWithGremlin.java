@@ -7,8 +7,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class WorkWithGremlin {
-    final static String pathToGremlin = "/home/DN230483ZAV2/Gremlin_test/Gremlin/"; //для теста
-    //final static String pathToGremlin = "/DATA/Gremlin/";                              //боевой
+    //final static String pathToGremlin = "/home/DN230483ZAV2/Gremlin_test/Gremlin/"; //для теста
+    final static String pathToGremlin = "/DATA/Gremlin/";                              //боевой
 
     public static String distributor(String operation, String pathBsh) {
 
@@ -43,39 +43,68 @@ public class WorkWithGremlin {
         }
     }
 
+
+    //added 2019-10-07
+    //https://itsm.privatbank.ua/predmine/other__tasks/issue/1289068.htm
+    static boolean checkRunRgl(String path){
+        boolean res = false;
+        Map<String, String> listBsh = listBsh();
+        String val = null;
+        for (Map.Entry tmp : listBsh.entrySet()) {
+            if (tmp.getKey().toString().equals("result")){
+                val = tmp.getValue().toString();
+                val = val.substring(1, val.length()-1);
+            }
+        }
+        String[] valArr = val.split(", ");
+        for (String s: valArr) {
+            if(path.toUpperCase().equals(s.toUpperCase())){
+                res = true;
+                break;
+            }
+        }
+        return res;
+    }
+
     private static Map<String, String> startBsh(String path) {
         String line = null;
         Map<String, String> answer = new HashMap<String, String>();
         answer.put("status", "fail");
         answer.put("result", "reason not determined");
-        String[] result = new String[2];
-        Process proc = null;
-        int counter = 0;
-        String[] command = {"/bin/sh", "-c", "cd " + pathToGremlin + "; ./Client.sh 10.62.11.81 start " + path};  //для теста
-        try {
-            proc = Runtime.getRuntime().exec(command);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
-        try {
-            while ((line = reader.readLine()) != null) {
-                if (counter < 2) {
-                    result[counter] = line;
-                }
-                counter++;
+        if (WorkWithGremlin.checkRunRgl(path)){
+            answer.replace("result", "regulations are already running");
+            return answer;
+        } else {
+            String[] result = new String[2];
+            Process proc = null;
+            int counter = 0;
+            String[] command = {"/bin/sh", "-c", "cd " + pathToGremlin + "; ./Client.sh 10.62.11.81 start " + path};  //для теста
+            try {
+                proc = Runtime.getRuntime().exec(command);
+            } catch (IOException e) {
+                e.printStackTrace();
             }
-            proc.waitFor();
-        } catch (Exception e) {
-            e.printStackTrace();
+            BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+
+            try {
+                while ((line = reader.readLine()) != null) {
+                    if (counter < 2) {
+                        result[counter] = line;
+                    }
+                    counter++;
+                }
+                proc.waitFor();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            if (result[1].equals("ok")) {
+                answer.clear();
+                answer.put("status", "success");
+            }
+            answer.put("result", result[1]);
+            return answer;
         }
-        if (result[1].equals("ok")) {
-            answer.clear();
-            answer.put("status", "success");
-        }
-        answer.put("result", result[1]);
-        return answer;
     }
 
     private static Map<String, String> killBsh(String path) {
