@@ -1,5 +1,6 @@
 import java.util.Calendar;
 import java.util.GregorianCalendar;
+import java.util.Stack;
 
 public class Test {
     public static void main(String[] args) {
@@ -272,6 +273,71 @@ public class Test {
         su.setCurrentSid("190717csb5cygnhgd8ii");
         System.out.println(su.getCurrentSid());
         */
+/*
+        Vector v = new Vector(); //массив, может хранить любые типы
 
+        v.insertElementAt(56,0);  // предназначен для вставки в массив нового элемента со сдвигом остальных в сторону конца массива
+        v.insertElementAt("56",1);
+
+        v.setElementAt(72, 0); //для замещения содержимого заданной ячейки массива
+
+        for (int i = 0; i<v.size(); i++) {
+            System.out.println(v.elementAt(i)); //извлечение элемента из массива
+        }
+
+*/
+
+/*
+        byte bKbd[] = new byte[256];
+        int length = 5;
+        String szStr = new String(bKbd, 0, length);  //Создаёт новую строку посредством раскодировки заданного подмассива байтов,
+        // используя кодировку платформы по умолчаниюПодробнее: http://cyclowiki.org/wiki/String_(Java)
+        System.out.println(szStr);  //вывод будет пустая строка из 5 символов
+
+        char[] c = {'t', 'e', 's', 't'};
+        String s = new String(c);  //из чарового массива собираем строку
+        System.out.println(s); //test
+        */
+/*
+        String s;
+        s = "Тестовая строка, используемая для разложения на слова";
+        StringTokenizer st = new StringTokenizer(s, " \t\n\r,.");  //в третьем параметры перечисляем возможныве разделители
+
+        while (st.hasMoreTokens()) {
+            // Выводим лексемы в консоль
+            System.out.println(st.nextToken());
+        }
+*/
+        Stack<Integer> stack = new Stack<>();
+        stack.push(3);  //Метод push() помещает объект в стек
+        stack.push(4);
+        stack.push(5);
+        System.out.println("Текущий стек: " + stack); //Текущий стек: [3, 4, 5]
+
+        //метод pop() удаляет объект из стека и возвращает удалённый объект
+        System.out.println("Удаляем: " + stack.pop()); //Удаляем: 5
+
+        //метод int search(Object o), который ищет заданный элемент в стеке, возвращая количество операций pop(),
+        // которые требуются для того чтобы перевести искомый элемент в вершину стека. Если заданный элемент в стеке отсутствует,
+        // этот метод возвращает -1
+        System.out.println("Чтоб значение 3 было последним нужно удалить элементов " + stack.search(3)); //Чтоб значение 3 было последним нужно удалить элементов 2
+
+        System.out.println("Удаляем: " + stack.pop()); //Удаляем: 4
+
+        // peek() кто теперь последний в стеке, не удаляя его оттуда
+        System.out.println("Последний: " +  stack.peek());
+
+        System.out.println("Удаляем: " + stack.pop()); //Удаляем: 3
+        System.out.println("Текущий стек: " + stack); //Текущий стек: []
+
+        //Чтобы убедиться, что в трубе никого не осталось, вызываем метод empty(), который возвращает булево значение.
+        if (stack.empty()) {
+            System.out.println("Стек пуст");
+        } else {
+            System.out.println("Стек не пуст");
+        }
+
+        System.out.println(stack.empty());
+        System.out.println(stack.isEmpty());
     }
 }
