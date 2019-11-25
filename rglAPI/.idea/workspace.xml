@@ -7,56 +7,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34657ebb-f3fa-4a45-9002-ba26aeac34a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DensExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prometheus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prometheus/src/week_3/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/TestsForWork/Tmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/longestSubstringWithoutRepeatingCharacters_3/ReedMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/longestSubstringWithoutRepeatingCharacters_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/twoSum_1/ReedMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/ControlledObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/StartObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/testAnnotate/StopObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/src/main/java/app/servlets/ListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/src/main/java/com/zubko/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testSpring/web/views/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prometheus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prometheus/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prometheus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prometheus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/jconn3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/connectToIQ/ConnectorToIq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/.idea/artifacts/koefInfApi_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/.idea/libraries/jconn4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/src/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/src/com/operations/ConnectorToIq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koefInfApi/src/com/operations/ResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/out/production/Test/META-INF/Test.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/out/production/Test/META-INF/Test.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/Test_2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Test_2/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/rglAPI_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/rglAPI.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_json.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/WEB-INF/lib/org.json.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/rglAPI.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/rglAPI/rglAPI.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI/rglAPI_war exploded.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/rglAPI_war/rglAPI_war.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rglAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rglAPI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/out/artifacts/testSpring_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/out/artifacts/testSpring_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/out/artifacts/testSpring_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testSpring/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/web/views/add.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/operations/ResponseHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="225">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -91,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-705">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="1455">
+              <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,10 +105,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1018" />
+    <option name="x" value="1848" />
+    <option name="y" value="160" />
+    <option name="width" value="1440" />
+    <option name="height" value="1016" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -200,7 +174,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -378,17 +352,20 @@
       <workItem from="1570522419269" duration="167000" />
       <workItem from="1570522605267" duration="5073000" />
       <workItem from="1571397874065" duration="711000" />
+      <workItem from="1574248610485" duration="1029000" />
+      <workItem from="1574254275499" duration="615000" />
+      <workItem from="1574334182813" duration="229000" />
+      <workItem from="1574338082817" duration="673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5951000" />
+    <option name="totallyTimeSpent" value="8497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27001068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -426,33 +403,33 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operations/ResponseHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="120">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/WorkWithGremlin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="1455">
+          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Runner.java">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operations/ResponseHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="64" />
         </state>
       </provider>
     </entry>
