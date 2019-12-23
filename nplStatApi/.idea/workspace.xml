@@ -7,24 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e7e6968-d877-4161-9788-08c5bb387368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nplStatApi_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nplStatApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/DataNPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/ValidatorParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/XMLCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/lemonadeChange_860/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/lemonadeChange_860/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/sendToCXP/NRMSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/NRMSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libJava/jconn3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../libJava/jconn3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/nplStatApi_war_exploded/nplStatApi_war exploded.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/nplStatApi_war_exploded/nplStatApi_war exploded.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operations/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/DatabaseConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operations/ValidatorParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/ValidatorParam.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +50,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -66,18 +66,6 @@
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -225,6 +213,23 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,6 +243,8 @@
       <workItem from="1574668226911" duration="8668000" />
       <workItem from="1574836216162" duration="146000" />
       <workItem from="1574836948992" duration="1293000" />
+      <workItem from="1577093474676" duration="4433000" />
+      <workItem from="1577109586644" duration="77000" />
     </task>
     <servers />
   </component>
@@ -249,11 +256,71 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="265" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577109675812">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="265" width="424" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577109675812" />
+    <state width="1291" height="266" key="GridCell.Tab.0.bottom" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.0.center" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.0.left" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.0.right" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.1.bottom" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.1.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.1.center" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.1.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.1.left" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.1.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.1.right" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.2.bottom" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.2.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.2.center" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.2.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.2.left" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.2.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state width="1291" height="266" key="GridCell.Tab.2.right" timestamp="1577104316541">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1291" height="266" key="GridCell.Tab.2.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577104316541" />
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1577109602740">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577109602740" />
   </component>
   <component name="masterDetails">
     <states>

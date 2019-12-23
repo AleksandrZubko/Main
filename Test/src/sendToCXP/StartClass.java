@@ -11,7 +11,7 @@ public class StartClass {
         String groupID = "51820907";
         //String format = "html";
         String format = "pdf";
-        String sidValue = "191203csa2gdd2z59wu7";
+        String sidValue = "191211csb43jfdh4slzb";
         String ticketId = "0000001698990748";
         byte[] inputFile = null;
 
@@ -21,7 +21,7 @@ public class StartClass {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        byte[] encodedBytes = Base64.getEncoder().encode(inputFile);
+        byte[] encodedBytes = java.util.Base64.getEncoder().encode(inputFile);
         String dataBase64 = new String(encodedBytes);
 
         //System.out.println(CXPOperation.write(dataBase64, clientID, groupID, format, sidValue));

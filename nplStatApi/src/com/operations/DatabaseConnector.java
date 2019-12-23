@@ -76,4 +76,47 @@ public class DatabaseConnector {
             }
         }
     }
+
+    public static String getData(String yearDateCalc, String monthDateCalc) {
+        Connection connection = null;
+        Statement statement = null;
+        ResultSet rs = null;
+        String query = "select date_calc, rp, graph_value from stat_portal.sp_cor_riskapp_api_7386442 where EXTRACT(MONTH FROM date_calc) = " + monthDateCalc +
+                "and EXTRACT(YEAR FROM date_calc) = " + yearDateCalc + ";";
+        System.out.println(query);
+        if (!new ValidatorParam().checkYearAndMonth(yearDateCalc, monthDateCalc)) {
+            return XML_BEGIN + "<error>Date format is not correct</error>";
+        } else {
+            try {
+                listNLP.clear();
+                connection = DriverManager.getConnection(DB_URL, USER, PASS);
+                ;
+                statement = connection.createStatement();
+                rs = statement.executeQuery(query);
+                while (rs.next()) {
+                    DataNPL nlp = new DataNPL(
+                            rs.getString("date_calc"),
+                            rs.getString("rp"),
+                            rs.getString("graph_value")
+                    );
+                    listNLP.add(nlp);
+                }
+
+                if (statement != null) {
+                    statement.close();
+                }
+                if (connection != null) {
+                    connection.close();
+                }
+
+                return new XMLCreator(listNLP).getXML();
+            } catch (org.postgresql.util.PSQLException e) {
+                e.printStackTrace();
+                return XML_BEGIN + "<error>Problem with query execution. A non-existent date is possible</error>";
+            } catch (SQLException e) {
+                e.printStackTrace();
+                return XML_BEGIN + "<error>Connection to DataBase is Failed</error>";
+            }
+        }
+    }
 }

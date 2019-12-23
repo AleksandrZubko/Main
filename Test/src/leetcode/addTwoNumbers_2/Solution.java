@@ -1,7 +1,5 @@
 package leetcode.addTwoNumbers_2;
 
-import java.util.ArrayList;
-
 class Main{
     public static void main(String[] args) {
         ListNode l1 = new ListNode(4);

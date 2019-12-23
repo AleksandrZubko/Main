@@ -29,4 +29,18 @@ public class ValidatorParam {
 
         return true;
     }
+    public static boolean checkYearAndMonth (String yearDateCalc, String monthDateCalc) {
+        int year, month = 0;
+        try {
+            year = Integer.parseInt(yearDateCalc);
+            month = Integer.parseInt(monthDateCalc);
+        } catch (Exception e) {
+            return false;
+        }
+        if (year < 2000 || year > 3000 || month < 1 || month > 12) {
+            return false;
+        } else {
+            return true;
+        }
+    }
 }

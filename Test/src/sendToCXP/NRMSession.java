@@ -119,16 +119,6 @@ public class NRMSession {
     }
 
 
-
-
-
-
-
-
-
-
-
-
     public static String PostHTTPSTest(String urlStr, String xml
             , String sidKey, String sidValue
     )

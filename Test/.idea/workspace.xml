@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/artifacts/nplStatApi_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/nplStatApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/src/com/operations/DataNPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/src/com/operations/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/src/com/operations/ValidatorParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/src/com/operations/XMLCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nplStatApi/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/lemonadeChange_860/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/META-INF/Test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/addTwoNumbers_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/addTwoNumbers_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sendToCXP/NRMSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sendToCXP/NRMSession.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libJava/jconn3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../libJava/jconn3.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="AnnotationType" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -84,12 +73,12 @@
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunManager" selected="Application.StartClass">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.implementStrStr_28.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lemonadeChange_860.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.implementStrStr_28.*" />
+          <option name="PATTERN" value="leetcode.lemonadeChange_860.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,10 +141,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.StartClass" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +206,11 @@
       <workItem from="1575357669715" duration="79000" />
       <workItem from="1575358096508" duration="444000" />
       <workItem from="1575360249080" duration="898000" />
+      <workItem from="1575365971440" duration="63000" />
+      <workItem from="1575374244028" duration="11438000" />
+      <workItem from="1576076027134" duration="457000" />
+      <workItem from="1576140378786" duration="844000" />
+      <workItem from="1577087851016" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1574667449323</created>
@@ -249,27 +243,47 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="209" key="GridCell.Tab.0.bottom" timestamp="1575361164293">
+    <state x="2663" y="265" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577093452499">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575361164293" />
-    <state width="1874" height="209" key="GridCell.Tab.0.center" timestamp="1575361164293">
+    <state x="2663" y="265" width="424" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577093452499" />
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom" timestamp="1576076528311">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575361164293" />
-    <state width="1874" height="209" key="GridCell.Tab.0.left" timestamp="1575361164293">
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576076528311" />
+    <state width="1874" height="209" key="GridCell.Tab.0.center" timestamp="1576076528310">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575361164293" />
-    <state width="1874" height="209" key="GridCell.Tab.0.right" timestamp="1575361164293">
+    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576076528310" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left" timestamp="1576076528310">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575361164293" />
-    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1575360257614">
+    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576076528310" />
+    <state width="1874" height="209" key="GridCell.Tab.0.right" timestamp="1576076528311">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576076528311" />
+    <state width="1874" height="326" key="GridCell.Tab.1.bottom" timestamp="1576063969620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="326" key="GridCell.Tab.1.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
+    <state width="1874" height="326" key="GridCell.Tab.1.center" timestamp="1576063969620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="326" key="GridCell.Tab.1.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
+    <state width="1874" height="326" key="GridCell.Tab.1.left" timestamp="1576063969620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="326" key="GridCell.Tab.1.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
+    <state width="1874" height="326" key="GridCell.Tab.1.right" timestamp="1576063969620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="326" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
+    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1577087914858">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1575358544161" />
-    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575360257614" />
+    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577087914858" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,6 +322,146 @@
           <url>file://$PROJECT_DIR$/src/leetcode/implementStrStr_28/Solution.java</url>
           <line>15</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
