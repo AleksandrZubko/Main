@@ -42,7 +42,6 @@ public class Runner extends javax.servlet.http.HttpServlet {
                 if (DatabaseConnector.checkDriver()) {
                     if (DatabaseConnector.checkConnectToDatabase()) {
                         response.getWriter().print(DatabaseConnector.getData(yearDateCalc, monthDateCalc));
-                        System.out.println(DatabaseConnector.getData(dateCalc));
                     } else {
                         response.getWriter().print(XML_BEGIN + "<error>Connection to database is failed</error>");
                     }
