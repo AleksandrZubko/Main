@@ -19,6 +19,6 @@
     <orderEntry type="library" name="xmlworker-5.4.5" level="project" />
     <orderEntry type="library" name="jsch-0.1.55" level="project" />
     <orderEntry type="library" name="jconn3" level="project" />
-    <orderEntry type="library" name="commons-email-1.5" level="project" />
+    <orderEntry type="library" name="commons-email-1" level="project" />
   </component>
 </module>

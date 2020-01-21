@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_email_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/leetcode/climbingStairs_70/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/leetcode/countAndSay_38/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/leetcode/lengthOfLastWord_55/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/leetcode/mergeSortedArray_88/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/leetcode/minimumAbsoluteDifference_1200/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/climbingStairs_70/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/climbingStairs_70/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/countAndSay_38/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/countAndSay_38/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/lengthOfLastWord_55/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/lengthOfLastWord_55/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/mergeSortedArray_88/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/mergeSortedArray_88/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/minimumAbsoluteDifference_1200/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/minimumAbsoluteDifference_1200/ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_email_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/tRelBsh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_email_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/others.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/others.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/META-INF/Test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplStatApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplStatApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplStatApi/out/artifacts/nplStatApi_war_exploded/nplStatApi_war exploded.war" beforeDir="false" afterPath="$PROJECT_DIR$/../nplStatApi/out/artifacts/nplStatApi_war_exploded/nplStatApi_war exploded.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplStatApi/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nplStatApi/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../koefInfApi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../koefInfApi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../koefInfApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../koefInfApi/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +52,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1034" />
+  </component>
   <component name="ProjectId" id="1UCdN44OuyFA9nacwDHz8jcVhyt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -80,13 +72,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/idea-IU-191.6707.61/lib/commons-email-1.5.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../koefInfApi" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.countAndSay_38.Main" />
       <module name="Test" />
@@ -154,10 +146,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.StartClass" />
       </list>
     </recent_temporary>
@@ -233,6 +225,14 @@
       <workItem from="1578663841966" duration="243000" />
       <workItem from="1578664621889" duration="6000" />
       <workItem from="1578664648438" duration="1203000" />
+      <workItem from="1579531416909" duration="1799000" />
+      <workItem from="1579535146755" duration="130000" />
+      <workItem from="1579535583644" duration="184000" />
+      <workItem from="1579599370831" duration="719000" />
+      <workItem from="1579600363135" duration="80000" />
+      <workItem from="1579600731369" duration="44000" />
+      <workItem from="1579600795077" duration="629000" />
+      <workItem from="1579601672274" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1574667449323</created>
@@ -259,6 +259,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -266,30 +280,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="412" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578670139647">
-      <screen x="0" y="24" width="1920" height="992" />
+    <state x="2721" y="422" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579601872858">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="801" y="412" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1578670139647" />
-    <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl" timestamp="1578903254319">
+    <state x="2721" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579601872858" />
+    <state x="2547" y="325" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1579602257901">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578903254319" />
-    <state width="1874" height="266" key="GridCell.Tab.0.bottom" timestamp="1579002773399">
+    <state x="2547" y="325" width="489" height="567" key="DetectedRootsChooserDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579602257901" />
+    <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl" timestamp="1579603106727">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579002773399" />
-    <state width="1874" height="266" key="GridCell.Tab.0.center" timestamp="1579002773399">
+    <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603106727" />
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom" timestamp="1579603108285">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="266" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579002773399" />
-    <state width="1874" height="266" key="GridCell.Tab.0.left" timestamp="1579002773399">
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
+    <state width="1874" height="209" key="GridCell.Tab.0.center" timestamp="1579603108285">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="266" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579002773399" />
-    <state width="1874" height="266" key="GridCell.Tab.0.right" timestamp="1579002773399">
+    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left" timestamp="1579603108285">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="266" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579002773399" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
+    <state width="1874" height="209" key="GridCell.Tab.0.right" timestamp="1579603108285">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
     <state width="1874" height="326" key="GridCell.Tab.1.bottom" timestamp="1576063969620">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -306,15 +325,15 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="326" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
-    <state x="2627" y="68" width="1024" height="845" key="SettingsEditor" timestamp="1578903259941">
+    <state x="2285" y="186" width="1024" height="845" key="SettingsEditor" timestamp="1579602280048">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2627" y="68" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578903259941" />
-    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578991405047">
+    <state x="2285" y="186" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579602280048" />
+    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579601672684">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1578666587585" />
-    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578991405047" />
+    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579601672684" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -7,33 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818995f1-4caf-42df-b0f0-6c002d163b2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/jconn3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/connectToIQ/ConnectorToIq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/implementStrStr_28/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/leetcode/plusOne_66/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/koefInfApi_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jconn4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/commons_email_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/tRelBsh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/libraries/commons_email_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/libraries/others.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/libraries/others.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/addTwoNumbers_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rglAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/koefInfApi/META-INF/koefInfApi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,53 +31,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/operations/ConnectorToIq.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#739#755#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/operations/ResponseHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,16 +42,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/Runner.java" />
-        <option value="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" />
-        <option value="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" />
-      </list>
-    </option>
-  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -117,103 +49,26 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1018" />
-  </component>
+  <component name="ProjectId" id="1WfCI5RAoXXlWIc4i3aBvM0rERD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="koefInfApi_war" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="koefInfApi_war_exploded" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="operations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koefInfApi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koefInfApi" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rglAPI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -278,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8087/koefInfApi/" />
+    <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="11.0.5" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8087/koefInfApi_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="koefInfApi:war exploded">
@@ -425,6 +280,29 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.124661244" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -436,168 +314,89 @@
       <option name="presentableId" value="Default" />
       <updated>1574253211380</updated>
       <workItem from="1574253215204" duration="1551000" />
+      <workItem from="1579603110817" duration="4215000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1551000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1920" y="-2" width="1920" height="1018" extended-state="6" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" sideWeight="0.5005624" side_tool="true" visible="true" weight="0.2497332" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943757" visible="true" weight="0.2497332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3295838" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295838" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operations/ConnectorToIq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#739#755#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operations/ResponseHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>koefInfApi:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>jconn4</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579608680106">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608680106" />
+    <state x="2721" y="399" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579531191033">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2721" y="399" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579531191033" />
+    <state x="2475" y="168" width="800" height="677" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1579608091036">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="168" width="800" height="677" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608091036" />
+    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579608135873">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608135873" />
+    <state width="1614" height="266" key="GridCell.Tab.0.bottom" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.0.center" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.0.left" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.0.right" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.1.bottom" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.1.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.1.center" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.1.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.1.left" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.1.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.1.right" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.2.bottom" timestamp="1579610683323">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.2.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683323" />
+    <state width="1614" height="266" key="GridCell.Tab.2.center" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.2.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.2.left" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.2.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state width="1614" height="266" key="GridCell.Tab.2.right" timestamp="1579610683322">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1614" height="266" key="GridCell.Tab.2.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579610683322" />
+    <state x="2363" y="84" width="1024" height="845" key="SettingsEditor" timestamp="1579608667182">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2363" y="84" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608667182" />
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1579598368923">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579598368923" />
+    <state x="2189" y="109" width="1372" height="796" key="new project wizard" timestamp="1579531255974">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2189" y="109" width="1372" height="796" key="new project wizard/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579531255974" />
   </component>
 </project>
