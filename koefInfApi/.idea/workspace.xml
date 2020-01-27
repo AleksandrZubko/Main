@@ -7,21 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818995f1-4caf-42df-b0f0-6c002d163b2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/commons_email_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/tRelBsh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tRelBsh/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/libraries/commons_email_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/libraries/others.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/libraries/others.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koefInfApi/META-INF/koefInfApi.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/ConnectorToIq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operations/ResponseHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -291,11 +277,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -315,6 +296,8 @@
       <updated>1574253211380</updated>
       <workItem from="1574253215204" duration="1551000" />
       <workItem from="1579603110817" duration="4215000" />
+      <workItem from="1579784924013" duration="582000" />
+      <workItem from="1579863306572" duration="615000" />
     </task>
     <servers />
   </component>
@@ -334,10 +317,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="168" width="800" height="677" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608091036" />
-    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579608135873">
+    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579865708325">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608135873" />
+    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579865708325" />
     <state width="1614" height="266" key="GridCell.Tab.0.bottom" timestamp="1579610683322">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -390,10 +373,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2363" y="84" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608667182" />
-    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1579598368923">
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1579863322056">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579598368923" />
+    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579863322056" />
     <state x="2189" y="109" width="1372" height="796" key="new project wizard" timestamp="1579531255974">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
