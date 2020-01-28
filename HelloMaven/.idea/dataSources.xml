@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rimsPostgreSQL" uuid="6e9d1993-bbe5-4bbb-a5c7-01b76ac59152">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>rimsloader</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.61.11.35:5432/rims</jdbc-url>
+    </data-source>
+  </component>
+</project>

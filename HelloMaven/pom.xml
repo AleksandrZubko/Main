@@ -7,7 +7,9 @@
     <groupId>ua.test</groupId>
     <artifactId>HelloMaven</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <build>
+        <!--подключаем плагины Maven-->
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -24,16 +26,19 @@
             </plugin>
         </plugins>
     </build>
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>5.0.0.RELEASE</version>
-        </dependency>
-    </dependencies>
+    <!--указываем требуемую версию для плагинов maven-->
     <properties>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
-    
+
+    <!--подключаем библиотеку Spring-->
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId> <!--Подключаем модуль spring-context-->
+            <version>5.0.0.RELEASE</version>
+        </dependency>
+    </dependencies>
+
 </project>
