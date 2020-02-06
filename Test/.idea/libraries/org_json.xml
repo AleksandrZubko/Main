@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="commons-logging-1.2">
+  <library name="org.json">
     <CLASSES>
-      <root url="jar://$USER_HOME$/libJava/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../libJava/org.json.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
