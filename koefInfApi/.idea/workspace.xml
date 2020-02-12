@@ -7,7 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818995f1-4caf-42df-b0f0-6c002d163b2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HelloMaven/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloMaven/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloMaven/target/classes/META-INF/HelloMaven.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superPuperSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../superPuperSpring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testSpring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,6 +303,8 @@
       <workItem from="1579603110817" duration="4215000" />
       <workItem from="1579784924013" duration="582000" />
       <workItem from="1579863306572" duration="615000" />
+      <workItem from="1581001716661" duration="52000" />
+      <workItem from="1581114379220" duration="27000" />
     </task>
     <servers />
   </component>
@@ -317,9 +324,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="168" width="800" height="677" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608091036" />
-    <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl" timestamp="1579865708325">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="529" y="169" width="313" height="346" key="FileChooserDialogImpl" timestamp="1581114403359">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="529" y="169" width="313" height="346" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581114403359" />
     <state x="2663" y="250" width="424" height="513" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579865708325" />
     <state width="1614" height="266" key="GridCell.Tab.0.bottom" timestamp="1579610683322">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -373,9 +381,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2363" y="84" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579608667182" />
-    <state x="2536" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1579863322056">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="438" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581114380671">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="438" y="225" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581114380671" />
     <state x="2536" y="334" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579863322056" />
     <state x="2189" y="109" width="1372" height="796" key="new project wizard" timestamp="1579531255974">
       <screen x="1920" y="0" width="1920" height="1080" />

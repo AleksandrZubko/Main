@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/pdfbox_2_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/defangingAnIPAddress_1108/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/defangingAnIPAddress_1108/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/subtractTheProductAndSumOfDigitsOfAnInteger_1281/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/subtractTheProductAndSumOfDigitsOfAnInteger_1281/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../superPuperSpring/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../superPuperSpring/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../superPuperSpring/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_email_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_email_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_json.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/fontbox_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/fontbox_2_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/iText.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/iText7_Core_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/iText7_Core_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/itextpdf_5_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/itextpdf_5_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jconn3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jconn3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/others.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_simple_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xmlworker_5_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/xmlworker_5_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/findNUniqueIntegersSumUpToZero_1304/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/findNUniqueIntegersSumUpToZero_1304/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/maximum69Number_1323/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/maximum69Number_1323/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloMaven/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloMaven/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloMaven/target/classes/META-INF/HelloMaven.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../koefInfApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../koefInfApi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../superPuperSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../superPuperSpring/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testSpring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testSpring/.idea/workspace.xml" afterDir="false" />
@@ -91,32 +74,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloMaven" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.countAndSay_38.Main" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.maximum69Number_1323.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.countAndSay_38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.addTwoNumbers_2.Main" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.addTwoNumbers_2.*" />
+          <option name="PATTERN" value="leetcode.maximum69Number_1323.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.climbingStairs_70.Main" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.findNUniqueIntegersSumUpToZero_1304.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.climbingStairs_70.*" />
+          <option name="PATTERN" value="leetcode.findNUniqueIntegersSumUpToZero_1304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.longestSubstringWithoutRepeatingCharacters_3.Main" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.longestSubstringWithoutRepeatingCharacters_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +242,11 @@
       <workItem from="1580822903849" duration="3339000" />
       <workItem from="1580888772158" duration="601000" />
       <workItem from="1580990946444" duration="8425000" />
+      <workItem from="1581114408267" duration="516000" />
+      <workItem from="1581196482981" duration="600000" />
+      <workItem from="1581360623907" duration="870000" />
+      <workItem from="1581411027793" duration="10818000" />
+      <workItem from="1581494241856" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1574667449323</created>
@@ -326,61 +314,65 @@
     </state>
     <state x="529" y="179" width="588" height="327" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581001282038" />
     <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580120063112" />
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1581438622605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581438622605" />
     <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1581438622604">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581438622604" />
     <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="326" key="GridCell.Tab.1.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
-    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="326" key="GridCell.Tab.1.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
-    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="326" key="GridCell.Tab.1.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
-    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1581001283253">
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581001283253" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="326" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
     <state x="260" y="0" width="1024" height="845" key="SettingsEditor" timestamp="1580730543569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="260" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580730543569" />
     <state x="2285" y="171" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579879309941" />
-    <state x="438" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580990949275">
+    <state x="438" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581494514390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="438" y="237" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580990949275" />
+    <state x="438" y="237" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581494514390" />
     <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1578666587585" />
     <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580119181071" />
     <state x="2189" y="109" width="1372" height="796" key="new project wizard" timestamp="1580120222590">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2189" y="109" width="1372" height="796" key="new project wizard/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580120222590" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581412315542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581412315542" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,6 +426,26 @@
           <url>file://$PROJECT_DIR$/src/leetcode/lemonadeChange_860/Main.java</url>
           <line>50</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/maximum69Number_1323/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/maximum69Number_1323/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/maximum69Number_1323/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/maximum69Number_1323/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
