@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/findAllDuplicatesInAnArray_442/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/findAllDuplicatesInAnArray_442/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/findNumbersWithEvenNumberOfDigits_1295/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/findNumbersWithEvenNumberOfDigits_1295/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/moveZeroes_283/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/moveZeroes_283/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/selfDividingNumbers_728/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/selfDividingNumbers_728/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jconn4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readerFiles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testBackup/BackupFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testBackup/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hillel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_email_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_email_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/fontbox_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/fontbox_2_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/iText7_Core_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/iText7_Core_7_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/itextpdf_5_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/itextpdf_5_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jconn3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jconn3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/pdfbox_2_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/pdfbox_2_0_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_1_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_1_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_1_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/xmlworker_5_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/xmlworker_5_4_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,19 +84,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hillel" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.moveZeroes_283.Main" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testBackup.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.moveZeroes_283.*" />
+          <option name="PATTERN" value="testBackup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.findNUniqueIntegersSumUpToZero_1304.Main" />
+      <option name="MAIN_CLASS_NAME" value="readerFiles.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.findNUniqueIntegersSumUpToZero_1304.*" />
+          <option name="PATTERN" value="readerFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +257,9 @@
       <workItem from="1581360623907" duration="870000" />
       <workItem from="1581411027793" duration="10818000" />
       <workItem from="1581494241856" duration="17111000" />
+      <workItem from="1581928589435" duration="3481000" />
+      <workItem from="1582021493685" duration="3746000" />
+      <workItem from="1582297820933" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1574667449323</created>
@@ -302,36 +317,40 @@
     <state x="570" y="284" width="304" height="146" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1580715344872" />
     <state x="801" y="412" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1578670139647" />
     <state x="2721" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579601872858" />
-    <state x="446" y="157" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1580723502097">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2547" y="325" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1581928973040">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="446" y="157" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580723502097" />
-    <state x="2547" y="325" width="489" height="567" key="DetectedRootsChooserDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579602257901" />
-    <state x="529" y="179" width="588" height="327" key="FileChooserDialogImpl" timestamp="1581001282038">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2547" y="325" width="489" height="567" key="DetectedRootsChooserDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581928973040" />
+    <state x="2631" y="259" width="588" height="327" key="FileChooserDialogImpl" timestamp="1582021851089">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="529" y="179" width="588" height="327" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581001282038" />
-    <state x="2663" y="265" width="735" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580120063112" />
-    <state width="1322" height="97" key="GridCell.Tab.0.bottom" timestamp="1581521493617">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2631" y="259" width="735" height="484" key="FileChooserDialogImpl/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582021851089" />
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom" timestamp="1582025920240">
+      <screen x="0" y="24" width="1920" height="992" />
     </state>
     <state width="1322" height="97" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581521493617" />
-    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="97" key="GridCell.Tab.0.center" timestamp="1581521493616">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1582025920240" />
+    <state width="1874" height="209" key="GridCell.Tab.0.bottom/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582023214151" />
+    <state width="1874" height="209" key="GridCell.Tab.0.center" timestamp="1582025920240">
+      <screen x="0" y="24" width="1920" height="992" />
     </state>
     <state width="1322" height="97" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581521493616" />
-    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="97" key="GridCell.Tab.0.left" timestamp="1581521493616">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1582025920240" />
+    <state width="1874" height="209" key="GridCell.Tab.0.center/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582023214151" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left" timestamp="1582025920240">
+      <screen x="0" y="24" width="1920" height="992" />
     </state>
     <state width="1322" height="97" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581521493616" />
-    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
-    <state width="1322" height="97" key="GridCell.Tab.0.right" timestamp="1581521493616">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1582025920240" />
+    <state width="1874" height="209" key="GridCell.Tab.0.left/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582023214151" />
+    <state width="1874" height="209" key="GridCell.Tab.0.right" timestamp="1582025920240">
+      <screen x="0" y="24" width="1920" height="992" />
     </state>
     <state width="1322" height="97" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581521493616" />
-    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579603108285" />
+    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1582025920240" />
+    <state width="1874" height="209" key="GridCell.Tab.0.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582023214151" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1581438622606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -352,17 +371,17 @@
     </state>
     <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581438622606" />
     <state width="1874" height="326" key="GridCell.Tab.1.right/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576063969620" />
-    <state x="260" y="0" width="1024" height="845" key="SettingsEditor" timestamp="1580730543569">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2285" y="171" width="1024" height="845" key="SettingsEditor" timestamp="1581929170376">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="260" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580730543569" />
-    <state x="2285" y="171" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579879309941" />
-    <state x="438" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581494514390">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2285" y="171" width="1024" height="845" key="SettingsEditor/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581929170376" />
+    <state x="616" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1582299453335">
+      <screen x="0" y="24" width="1920" height="992" />
     </state>
     <state x="438" y="237" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581494514390" />
-    <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1578666587585" />
-    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580119181071" />
+    <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@0.24.1920.992" timestamp="1582299453335" />
+    <state x="2536" y="352" key="com.intellij.ide.util.TipDialog/0.24.1920.992/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582021694017" />
     <state x="2189" y="109" width="1372" height="796" key="new project wizard" timestamp="1580120222590">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

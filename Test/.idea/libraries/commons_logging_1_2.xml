@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="jconn3">
+  <library name="commons-logging-1.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/libJava/jconn3.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/commons-logging-1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

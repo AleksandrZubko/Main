@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="xmlworker-5.4.5">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../libJava/xmlworker-5.4.5.jar!/" />
+      <root url="jar://$USER_HOME$/libJava/xmlworker-5.4.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
