@@ -6,6 +6,7 @@ import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.util.Arrays;
+import java.util.Base64;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
@@ -125,12 +126,12 @@ public class Horse {
         System.out.println(c.get(Calendar.YEAR) + "-" + yesterdayMonth + "-" + c.get(Calendar.DATE));
 
  */
-/*
-        String base64 = "MTkwNjE4Y3NiMWdsd28xM3hmNm4=";
+
+        String base64 = "MjAyMDAzMTEgMTM6MTY6MjIgMjAwMzExY3NhMzNicDYya2d6aTM=";
         Base64.Decoder dec = Base64.getDecoder();
 
         System.out.println(new String(dec.decode(base64)));
-*/
+
 /*
         try {
             String asB64 = Base64.getEncoder().encodeToString("yhfurueiyf".getBytes("utf-8"));
