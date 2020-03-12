@@ -196,12 +196,19 @@ public class Horse {
         Toolkit.getDefaultToolkit().beep(); //выпускает звук
 
 */
-
+/*
         //выводит названия всех шрифтов, доступных в отдельной системе
         String[] fontNames = GraphicsEnvironment.getLocalGraphicsEnvironment()
                 .getAvailableFontFamilyNames();
         for (String fontName : fontNames)
             System.out.println(fontName);
+
+ */
+
+
+
+
+
     }
 
 

@@ -4,57 +4,69 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(new Solution().countAndSay(3));
+        System.out.println(new Solution().countAndSay(4));
 
     }
 }
 
 class Solution {
     public String countAndSay(int n) {
+        // Base cases
+        if (n == 1)     return "1";
+        if (n == 2)     return "11";
 
-        String[] arr = new String[n];
-        arr[0] = "1";
-        int cnt = 1;
-        int lastVal = 0;
-        String valTmp = "";
-        ArrayList<Integer> list = new ArrayList<>();
-        ArrayList<Integer> listTmp = new ArrayList<>();
-        list.add(1);
-        if (n > 1) {
-            for (int y = 1; y < n; y ++) {
-                listTmp.clear();
-                for (int i = 1; i < list.size()+1; i ++){
+        // Find n'th term by generating
+        // all terms from 3 to n-1.
+        // Every term is generated
+        // using previous term
 
-                    if(i < list.size()){
-                        lastVal = list.get(i - 1);
-                        if (lastVal == list.get(i)) {
-                            cnt ++;
-                        } else {
-                            listTmp.add(cnt);
-                            listTmp.add(list.get(i));
-                            cnt = 1;
-                        }
-                    }else {
-                        listTmp.add(cnt);
-                        listTmp.add(list.get(0));
-                        cnt = 1;
-                    }
+        // Initialize previous term
+        String str = "11";
+        for (int i = 3; i <= n; i++)
+        {
+            // In below for loop, previous
+            // character is processed in
+            // current iteration. That is
+            // why a dummy character is
+            // added to make sure that loop
+            // runs one extra iteration.
+            str += '$';
+            int len = str.length();
 
+            int cnt = 1; // Initialize count
+            // of matching chars
+            String tmp = ""; // Initialize i'th
+            // term in series
+            char []arr = str.toCharArray();
+
+            // Process previous term
+            // to find the next term
+            for (int j = 1; j < len; j++)
+            {
+                // If current character
+                // does't match
+                if (arr[j] != arr[j - 1])
+                {
+                    // Append count of
+                    // str[j-1] to temp
+                    tmp += cnt + 0;
+
+                    // Append str[j-1]
+                    tmp += arr[j - 1];
+
+                    // Reset count
+                    cnt = 1;
                 }
 
-                for (int r:listTmp
-                     ) {
-                    System.out.println(r);
-                }
-
-                list = listTmp;
-                valTmp = "";
-                for (int q:list) {
-                    valTmp += q;
-                }
-                arr[n-1] = valTmp;
+                // If matches, then increment
+                // count of matching characters
+                else cnt++;
             }
+
+            // Update str
+            str = tmp;
         }
-        return arr[n-1];
+
+        return str;
     }
 }
