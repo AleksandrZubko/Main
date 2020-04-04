@@ -207,9 +207,12 @@ public class Horse {
 
 
 
+        String s = "1256.56";
 
+        System.out.println(s.substring(0, s.lastIndexOf(".")));  //обрезаем строку по точку
 
     }
+
 
 
 
