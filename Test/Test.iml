@@ -7,25 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="commons-email-1" level="project" />
-    <orderEntry type="library" name="iText7-Core-7.1" level="project" />
-    <orderEntry type="library" name="slf4j-1.7" level="project" />
-    <orderEntry type="library" name="slf4j-1.8" level="project" />
-    <orderEntry type="library" name="commons-lang3-3.0" level="project" />
-    <orderEntry type="library" name="commons-logging-1.2" level="project" />
-    <orderEntry type="library" name="fontbox-2.0.2" level="project" />
-    <orderEntry type="library" name="itextpdf-5.4.0" level="project" />
-    <orderEntry type="library" name="jconn3" level="project" />
-    <orderEntry type="library" name="jconn4" level="project" />
-    <orderEntry type="library" name="jsch-0.1.55" level="project" />
-    <orderEntry type="library" name="org.json" level="project" />
-    <orderEntry type="library" name="pdfbox-2.0.15" level="project" />
-    <orderEntry type="library" name="postgresql-42.2.5" level="project" />
-    <orderEntry type="library" name="xmlworker-5.4.5" level="project" />
     <orderEntry type="library" name="commons-logging-1.1.1" level="project" />
     <orderEntry type="library" name="json-simple-1.1.1" level="project" />
     <orderEntry type="library" name="httpclient-4.5.2" level="project" />
     <orderEntry type="library" name="httpcore-4.4.4" level="project" />
     <orderEntry type="library" name="commons-codec-1.10" level="project" />
+    <orderEntry type="library" name="libJava" level="project" />
+    <orderEntry type="library" name="commons-email-1" level="project" />
+    <orderEntry type="library" name="iText7-Core-7.1" level="project" />
+    <orderEntry type="library" name="slf4j-1.8" level="project" />
   </component>
 </module>
