@@ -11,10 +11,11 @@ public class StartClass {
         String groupID = "51820907";
         //String format = "html";
         String format = "pdf";
-        String sidValue = "200311csa3n8asxoh8rz";
-        String ticketId = "0000001698990748";
+        String sidValue = "210317csb2dmpv7gikso";
+        String ticketId = "0000002114832379";
         byte[] inputFile = null;
 
+/*
         try {
             inputFile = Files.readAllBytes(Paths.get(filePath));
 
@@ -23,7 +24,7 @@ public class StartClass {
         }
         byte[] encodedBytes = java.util.Base64.getEncoder().encode(inputFile);
         String dataBase64 = new String(encodedBytes);
-
+*/
         //System.out.println(CXPOperation.write(dataBase64, clientID, groupID, format, sidValue));
         System.out.println(CXPOperation.getUrlForAttach(ticketId, sidValue));
 

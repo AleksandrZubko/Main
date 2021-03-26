@@ -8,15 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4d69b5-7ba5-4a5e-ba22-6793883026bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/src/rimsLoaderSession/ClientHttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/rimsLoaderSession/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/rimsLoaderSession/RimsLoaderSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hillel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hillel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/src/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/createPDF/ColumnWidthExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/createPDF/PDFCreatorWithIText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/createPDF/PDFCreatorWithPdfBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/leetcode/mergeTwoSortedLists_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/sendMail/SendMail.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +60,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -223,6 +224,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -248,11 +250,12 @@
       <workItem from="1574668036682" duration="2478000" />
       <workItem from="1574672910324" duration="28000" />
       <workItem from="1583921392718" duration="2152000" />
+      <workItem from="1615985136679" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="masterDetails">
     <states>
