@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b4ecf757-5775-4441-8fea-ae0cd94cdba1" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createPDF/ColumnWidthExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createPDF/PDFCreatorWithIText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createPDF/PDFCreatorWithPdfBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/mergeTwoSortedLists_21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/mergeTwoSortedLists_21/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sendMail/SendMail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sendToCXP/StartClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nplApi/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +64,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PrivatBank/services/solutionRestr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../libJava" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.18450183" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.StartClass">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.сhallenge.singleNumber.Main" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Horse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Horse" />
       <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.сhallenge.singleNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartClass" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Horse" />
+        <item itemvalue="Application.StartClass" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +258,11 @@
       <workItem from="1586420973636" duration="612000" />
       <workItem from="1615980760503" duration="5670000" />
       <workItem from="1616145182478" duration="421000" />
+      <workItem from="1643022356841" duration="95000" />
+      <workItem from="1643022468701" duration="49000" />
+      <workItem from="1643022550716" duration="105000" />
+      <workItem from="1643066546887" duration="91000" />
+      <workItem from="1643066707089" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1574667449323</created>
